@@ -1,0 +1,423 @@
+Company Participants
+
+Aileen McAdams - Head, IR
+Austin Russell - Founder and CEO
+Tom Fennimore - CFO
+
+Conference Call Participants
+
+Jash Patwa - JPMorgan
+Winnie Dong - Deutsche Bank
+Federico Merendi - Bank of America
+Morgan Long - Goldman Sachs
+Tyler Anderson - Craig-Hallum
+
+Aileen McAdams
+
+Welcome everyone to Luminar's Fourth Quarter of 2024 Business Update Call. My name is Aileen McAdams and I'm Luminar's Head of Investor Relations. With me today on the call are Austin Russell, Luminar's Founder and Chief Executive Officer, and Tom Fennimore, our Chief Financial Officer.
+
+As a quick reminder, this call is being recorded. You can find the press release and the presentation that accompanies this call on our website@investors.luminartech.com. In a moment you'll hear remarks from Austin and Tom, followed by a Q&A session.
+
+Before we begin, our prepared remarks and Q&A, let me remind everyone that during the call we may refer to non-GAAP and GAAP financial measures. Today's discussion also contains forward-looking statements based on the environment as we currently see it, and as such does include risks and uncertainties. Please refer to the press release and the presentation for more - information on the specific risk factors that could cause actual results to differ materially.
+
+With that, I'd like to introduce Luminar's Founder and CEO, Austin Russell. Austin?
+
+Austin Russell
+
+Hi, can you hear me okay?
+
+Aileen McAdams
+
+Yes.
+
+Austin Russell
+
+Oh, perfect, perfect. All right, well good afternoon, everyone. I'm calling in from just outside of NVIDIA's GTC in Silicon Valley where we're showcasing some more LiDAR and Sentinel software on - and with NVIDIA's automotive platform to OEMs. So good traction there.
+
+And as a recap of today's news, excited to be able to get out there, but with the outperformance this quarter a strong finish to year end from a sales standpoint, commercial momentum perspective and achieving the product unification around Luminar Halo. Excited to jump in with regards to not just what this year was, but also what 2025 has to offer. And also as we look to scale up our LiDAR shipments, by more than 200% this year.
+
+First, I want to start today off, with a little bit of a refresher of the state of the union around LiDAR and Luminar, before we get into some of our achievements for this past year and what's ahead. So at the beginning of this last year, I described how Luminar had stand at, or stood at a crossroads of two different realities. The corridor business had never been stronger, with our technology proven and Iris successfully industrialized, for a global production vehicle.
+
+Yet at the same time, we all knew the broader automotive market, was challenged on timely launches of new vehicle platforms. Of course, today we stand having successfully launched the first global production vehicle with the Volvo EX90 being shipped, with leading class technologies for the first time at global scale, like Luminar and NVIDIA, to show the world what's possible.
+
+Of course, later on last year, after the kickoff of the beginning, we unveiled Halo during Luminar Day, to be able to show how we're going to scale it, the global stage. We'll talk a little bit more about that. So those in the automotive industry know, and fair to say that it's undergoing a seismic shift, with the introduction of new technologies, ranging from electric powertrains, to advanced compute to LiDAR on new vehicle platforms.
+
+And introducing any one of those kinds of technologies to future vehicles, is a major undertaking, much less multiple at the same time, into what automakers are calling software defined vehicles. This is a monumental undertaking with complexity that cannot be under - or cannot be overstated, while also driving significant disruption up and down value chains.
+
+And it's no secret that this result was such that many automakers had taken longer than their initial targets a few years ago, to launch these new vehicle platforms, as they collaborate with a differentiated supply base, and develop centralized vehicle software systems from scratch.
+
+With that said, one thing is very clear. Compared to a few years ago, or even recent history, more automakers than ever are planning to integrate things like LiDAR, AI and advanced computing, into their next generation vehicle lineups, with the majority of them expecting to do so, by the end of the decade. The question is no longer, if LiDAR is a relevant technology for the industry, but rather when it will become standardized across vehicles.
+
+Just like other safety enhancing technologies in the past like RADARs, cameras, airbags, seat belts, or even today new technologies like GPUs in vehicles. And unlike the electronics industry with quick pace roll ins and outs of products, the automotive industry, is one of those very high barrier to entry, but also very high barrier to exit industries. It takes a substantially more conservative and decisive approach, to integrating and rolling out new technologies.
+
+Time-and-time again, it's generally a 10 to 20 year adoption cycle, to when the first new technologies are introduced, to when they start to become standardized, or even eventually mandated on vehicles. We witnessed it with everything from mobilized vision technologies, to what's happening with the recent compute integrations, to say for example automatic emergency braking capabilities.
+
+So the automotive industry, is not like that in the sense that say your next generation phone, or tablet or VR headset is introduced in consumer hands year-after-year. These technologies take years to be able to be developed, much less to automotive grade qualifications tested, validated and integrated into platforms. And especially when those technologies are safety critical like LiDAR? This is a highly complex process, and people's lives are at stake in the industry. So it moves at a very deliberate pace.
+
+Now I truly believe that just like those other technologies introduced to automotive that we described before, LiDAR on every vehicle is inevitable. It's just a matter of development, progress and time. And this sentiment has been echoed by industry leaders, that we've seen both privately to us as well as publicly, on a number of occasions.
+
+And with a recent example being, for example, Nissan, just on their most recent earnings call, they specifically spoke around revolutionizing autonomous driving technologies, and next generation collision avoidance features, utilizing LiDAR for widespread standardization, first with them and then the broader industry. And I'm frequently asked, the comparison is made of what's the differentiation specifically for Luminar and Luminar's technology and LiDAR.
+
+And it starts off with, I would say what we see in the industry is a little bit of a bifurcation, to what you call kind of a premium segment for the market, and then a more lower cost commodity segment for the market that, particularly we've seen gain some traction, notably in China. And as a reminder, one of the things that makes Luminar's LiDAR unique, is the fact that we built our own technology from the chip level up, at a different kind of wavelength of light, versus using more commodity off the shelf components at 905 nanometers. We use them at 1550 nanometers.
+
+That allows us to output orders of magnitude more pulse energy into the environment than 905 nanometers while maintaining eye safety. Whereas 905 nanometers is substantially limited. That allows us to detect even some of the hardest to see objects at distances past 250 meters in all kinds of lighting conditions. And stands in stark contrast to our competitors' technologies, which can generally only see those kinds of difficult to see objects, at a fraction of the distances, limiting the kind of speeds the vehicles can operate, as well as not maximizing the safety capabilities that can be achieved.
+
+And while some of those shorter perception distances, can be helpful for lower speed autonomous driving applications, they're insufficient to ultimately safely maneuver at higher speeds. And that's the fundamental difference that our LiDAR enables, and what is required to ultimately unlock Level 3 autonomy. Going beyond just the base assisted driving capabilities. Of course, it still significantly and further enhances with the extra performance, the capabilities you can expect from a safety standpoint for Level 2 and beyond.
+
+Now, what's happening right now in the market, is that automakers and some of these platform providers other companies, are more so initially using the LiDAR for these assisted driving capabilities, while they develop those autonomous Level 3 capabilities, to ultimately be able to enable drivers take their hands off, eyes off, and you know what, use your phone, work on your laptop, watch a movie, take a nap, whatever it may be in your vehicle. And we're starting to see some of those, in global markets, as well as the China market.
+
+In particular exciting to see that, there's some significant adoption there as the - those OEMs moving very quickly. But that said on one hand, the low performance LiDAR, is okay for now for some of those vehicles, particularly in China, that can support Level 2 applications, when drivers remain actively engaged and the cost is fairly low, but it'd not be sufficient to ultimately unlock the higher levels of performance and capabilities, higher levels of safety and higher speeds. And that's really where Luminar comes into play.
+
+We're ultimately building LiDAR, so that you can have those capabilities, to be fully realized. And this is where we get to see significant adoption, from the Western world OEMs representing, on the order of 90% of the global volume, to establish these kinds of cases and something we're very excited about. So of course, I think it's important to say that, as software for Level 3 and higher capabilities is solved for and LiDAR's full value is continue to be realized, we believe that that premium segment around LiDAR, will ultimately be a critical part of the ecosystem in a winter here.
+
+And that's further supported, I would say, by beyond just the performance capabilities, substantial cost reductions within what we have, like with Luminar Halo, to be able to enable even broader widespread adoptions that ultimately surpass the other segments. Now at Luminar, we firmly position as a leader within this high performance category with our 1550 nanometer technology. And we believe that it's really the only viable solution for looking ahead, what the requirements are for Level 3 and beyond. And at the same time, the only solution that's going to maximize the safety capabilities for the vehicle.
+
+So this leadership position that we have in the industry, is underscored by the traction we continue to see with our automaker partners, and particularly with our next generation LiDAR Luminar Halo, our Iris product, was there to be able to show what was possible as we developed it, and successfully launched it with Volvo. And now Luminar Halo is poised to lead the industry in performance, size and cost.
+
+Its performance is multiples better than those of our previous generation of products in size, a fraction thereof. It's a multiple of the efficiency and it's all in a highly efficient package for seamless integration. And in working with our numerous automaker partners over the past several years, we've not only learned and developed the performance specifications, and requirements for the products of LiDAR more generally.
+
+We've also gained an incredible amount of design and manufacturing know how and IP, and have learned the distinct advantages, disadvantages of every single iteration of - at the component level up, from the five different generations of LiDAR products that we've gone through. So again, ultimately, Luminar Halo is going to be the key enabler for what we believe to be widespread mass adoption of LiDAR and certainly in the Western world. And we're making solid progress with our OEM partners.
+
+So we've demonstrated, Luminar's Halo's performance now to several OEMs, and are actively engaged in coordinated development efforts. And this is something that we highlighted in the presentation of now we actually have fully integrated samples of Luminar Halo to be able to showcase, with more mature point clouds that we're continuing to develop.
+
+And today we're also beginning to see green shoots in the industry. We've seen a first shift to the left, by an automaker asking to pull forward the LiDAR rollout relative to their LiDAR - relative to their prior LiDAR plan, with an earlier vehicle platform. And we've been working with this automaker for several years, and are excited about what's ahead.
+
+So the thing is, what makes this possible is all around the accelerated development timeline for Luminar Halo, as well as our decision to simplify our overall product portfolio. Historically, we developed a number of different LiDAR related products simultaneously. Between the Iris family of products, as well as what we have been working on in the background with Halo.
+
+With Iris initially there to be able to primarily serve Volvo, and the requirements there before it forked off to dozens of other companies that, we're able to provide it to. And then subsequently also Iris plus with our lead OEM customer in that respect. So would say this, is that from a development standpoint, now with the work on Iris largely complete and Iris plus, as I mentioned before from the announcement and as we're talking about here, is transitioning to be Halo from our lead customer with Iris plus.
+
+We now have a unified platform together that is a superset, of all the different OEM requirements for what's needed in the LiDAR. And that allows us to have a singular product as opposed to a bunch of different variations of the same kinds of product, to be able to simplify our development efforts significantly, saving on cost, enhancing efficiency, enhancing speed, among other things there.
+
+This also gives us an opportunity to transition customers, with Iris into series production to Luminar Halo on mid cycle refreshes. So as a result of all of those factors, we're really all in on Halo, and excited to be moving full speed ahead. So I would say this, is that from a broader perspective, we had historically built Luminar to be able to have the capability, to develop multiple products simultaneously around the LiDAR side.
+
+We know as of last year from some of the different restructuring actions that, we take to streamline the organization we've implemented it, they've been largely effective and haven't materially affected the overall development timeline from what we've had. In fact, it's actually streamlined and sped things up in many respects. And when it comes down to it this year, as we shift towards from developing all these different kinds of LiDAR products, that one unified LiDAR platform, we think there's going to be some opportunities for dramatic efficiency improvements that we're going to get to realize this year.
+
+And again, why make this move now in terms, of a broader strategic shift in our business model? It's all, because we're able to get our customers, and our key customers on board with the Halo platform, moving full speed ahead in the same direction with shared requirements. And that's something that we've been working for, frankly many years on to be able to do and align those requirements and expectations.
+
+So, we're going to be talking a little bit more about that, and I'll have more to share over the coming weeks and months about, how we will reinvent Luminar more radically as an organization, under this new kind of business model. Less around custom developments for OEMs, and more with that shared unified platform. And really this becomes possible, because we had invested nearly $2 billion over the past decade to be able to create, industrialize and launch an entire technology platform and ecosystem. And coming from the semiconductor all the way up to the LiDAR up to the software levels, and have some of the best engineering, and technical talent in the industry, as well as technology on the shelf, because of those investments.
+
+So, we're now on the other side of that investment curve, which allows us to be able to realign the business without materially affecting near term deliverables, revenues, et cetera. So in concert with our board of Directors, we're in the throes of developing that new strategic plan for Luminar, under this new business model of that unified platform and look forward to sharing more.
+
+Lastly, before I turn it over to Tom, I want to take a moment to review some of our key achievements from a business milestone standpoint, and highlight some of the impressive work from the Luminar team in 2024. At the beginning of last year, we outlined four business milestones to achieve by year end. Number one was passing the final run at rate production audit, to achieve a global start of production with Volvo and ramp accordingly.
+
+Second was launching a TPK facility, for additional capacity and improved cost. Number three, was to unveil our next generation LiDAR, we later unveiled as Halo and deliver samples to customers. Four, was to expand the ecosystem around our LiDAR, and I'm happy to say that we've delivered across all four of these key business milestones at a company level.
+
+We achieved the start of production for Volvo, with the EX90 this past year and were also awarded the Volvo ES90, which is the sedan, so to say equivalent of the EX90, which will go into production this year. We also launched an expanded industrialization partnership with TPK in our transition to an asset light model for industrialization.
+
+We host a very successful Luminar Day, where we unveiled this next generation LiDAR Luminar Halo, and generated the First Point Cloud from Luminar Halo since while demonstrating its capabilities to customers and feedback has been tremendously positive. We did all of this, while aggressively working to restructure costs as part of the business, and of course while not without its challenges, I'm immensely proud of the Luminar team for all that we've achieved last year under the broader macro circumstances.
+
+I have the utmost confidence in our ability to execute for 2025, and today we're going to be outlining a few of those key milestones, to achieve by the end of the year. So you can be able to take a look, the first and foremost, is to be able to continue to ramp the production delivery, of the Iris related sensors for series production customers, and achieve those economies of scale, with over 200% growth associated with our deliveries into the market.
+
+The second one was, meeting the key requirements for Halo, for our customer contracts and execution. And number three, was to be able to streamline the business, with the new business and operating model that we described, as we have that unified product portfolio going from what, developing five different variants, of products at the same time, to one with Luminar Halo. And that's going to help accelerate our efficiency as a business, and path to profitability as well.
+
+So, we remain very confident in our strategy and execution. Our technology leadership remains unparalleled, in the high performance LiDAR space. Our customer relationships are progressing well, and - while we're pragmatic about the near term industry challenges, we're very optimistic about the market's long-term expansion. And as the industry continues to shift towards safer vehicles, and towards Level 3 autonomous driving capabilities, we firmly believe Luminar is exceptionally well positioned, to capitalize on this enormous opportunity ahead.
+
+And with that, I'll turn it over to Tom to discuss financials. Thank you.
+
+Tom Fennimore
+
+Great. Thank you Austin.
+
+Let's start, by reviewing Q4 financial results. Revenue for the quarter came in better than expected at $22.5 million up 45% quarter-over-quarter, and 2% year-over-year. The primary driver of this revenue growth, was higher sensor sales, both to Volvo and non-series production, or adjacent market customers.
+
+During Q4, our sensor sales to adjacent market customers increased substantially, mainly due to a large order from one of our customers. While we expect this customer, will continue to generate significant revenue in the longer term, we expect the shipments during the most recent quarter satiated their near term demand. During Q4, we shipped over 4,000 Iris sensors to our customers, and over 9,000 for the calendar year. The vast majority of these sensors were shipped to Volvo.
+
+Moving on to gross margin. For the quarter, we reported positive gross profit of $12.5 million on a GAAP basis, and $14 million on a non-GAAP basis. Three factors drove our positive gross margin.
+
+First, we reversed $10 million of NRE contract losses accrued in prior quarters related to our Iris plus development work. As Austin mentioned, in Q4 we transitioned our lead Iris plus customer to Luminar Halo development, allowing us to terminate this Iris plus development work, and reverse that contract loss accrual.
+
+The second factor that drove positive gross margin, was planned production downtime at our Mexico facility, to align our production with our customers demand. This allowed us to ship sensors from inventory that were already marked down to ASP levels. We estimate this was an approximately $4 million benefit, to gross profit during the quarter.
+
+The third factor, was the previously mentioned large sensor shipment, to an adjacent market customer, which was done at significantly higher ASPs, than what we sell for at in series production. We estimate that this was about another $4 million benefit. Some of these factors like production downtime will not repeat going forward, and others like sensor sales to non-series production customers will repeat, but will be choppy on a quarter-to-quarter basis.
+
+However, we are encouraged that we generated a positive gross profit during the quarter. While reaching gross profit positive, is an important milestone for us, we are guiding to be modestly gross margin negative for each quarter in 2025, and I'll discuss more of that later.
+
+Now to discuss, and give an update on our cost options - actions as well as our OpEx. Last year, we announced two major restructurings, one in April and one in September that allowed us, to significantly improve our cost structure. The April actions, were expected to achieve $80 million in total cost savings, about half in cash, half in stocks by the end of 2024, and the September actions were expected to achieve - an additional $80 million, almost entirely in cash by the end of 2025, when fully implemented.
+
+These actions have started to yield demonstrable results, in our financial performance. Relative to Q1, before our cost actions were implemented, our non-GAAP OpEx, a good proxy to measure these cash savings, declined by $72 million on an annualized basis. Our quarterly stock-based compensation approximately for the stock savings declined by about $80 million on an annual basis over the same time period.
+
+Moving on to cash in our balance sheet, we ended the year with $233 million in cash and liquidity, which includes $183 million in cash and marketable securities, and $50 million on an undrawn line of credit. This year-end actual numbers, were in line with our guidance, including the [$209 million] available in our equity finance program, which reflects a $75 million upsize we're going to do shortly after earnings. This amounts to total access to liquidity of $442 million.
+
+Our change in cash during the quarter was $16 million one, six, well below the $52 million from Q3. This improvement was primarily driven by proceeds from our equity financing program, which amounted to $48 million to the quarter and was partially a function of timing as we only did $6 million in Q3. The proceeds generated under this program during the quarter, continue to demonstrate our access to the capital markets, and remain an avenue we can pursue to bolster our liquidity, if and when needed.
+
+Free cash flow for the quarter was negative $62 million, slightly higher than the negative $58 million in Q3. The increase was almost entirely driven by $8 million of higher cash interest during the quarter from our August debt transaction. We expect to file an amendment S3 and prospectus supplement associated with the extension of our equity finance program, and stock to be granted to one of our strategic suppliers, over the next few days.
+
+I wanted to touch base on our order book. In the past, we disclosed forward-looking order book, as an alternative financial metric that we updated annually, as a means by which the investment community, can measure our commercial progress and opportunity. Now that we have achieved series production, we are no longer going to update this on an annual basis, and instead replace it by disclosing our sensor shipped, which we believe is a better metric to measure our progress.
+
+This is consistent with what other LiDAR companies that have reached series production stage have done. For full disclosure, our forward-looking order book as of 2024 would be lower relative to 2023. However, we believe this is a temporary phenomenon, due to the Halo transition with our key customers from the Iris family.
+
+As a reminder, we establish a very high order book, for what was included in the order book and not, specifically only series production awards or equivalent were included, and we exclude customer contracts that are only in the development stage. While reception for Luminar Halo has been significant, the product still remains in the development phase, with a number of series production award opportunities pending completion of certain technical milestones.
+
+To be absolutely clear, we continue to work with all of our customers from last year, have not lost any customers, and we expect the decline in the order buck in 2024 to be temporary as we complete the outline development milestones, for Luminar Halo and hopefully with anticipated better economics.
+
+Our commercial opportunity for Halo remains strong. We have entered into Luminar Halo development contracts, with two major automakers since our last earning calls and have secured a series production equivalent contract, with a major construction and - highway machinery manufacturer. More details to come here shortly on those.
+
+Moving on the 2025 guidance. For 2025, we expect - our full year revenue growth, to be in the range of 10% to 20%. This growth will be almost entirely driven by a greater than three times forecasted increase in our sensors, from approximately 9,000 in 2024, to a range that we're currently forecasting of call it 30,000 to 33,000 this year. This growth in sensor shift, will be offset by the lower revenue from the non-automotive customer, we discussed on our Q3 call, and basically the full year impact of that renegotiated contract.
+
+We are being conservative in our revenue guidance, and are basing our 2025 censorship that a rather significant call it about a 50% haircut, to the latest IHS latest forecast. We want to you know, we want to be conservative until we see a more proof points of a sustained ramp in our customers production volume.
+
+For the first quarter, we expect revenue will decline quarter-over-quarter, and be closer to Q3, '24 than Q4 levels. This is driven, by basically the lower sequential sensor sales, to that non-series production customer we discussed earlier. In the past, we talked about reaching a mid $30 million revenue run rate on a quarterly basis, given the recalibrated contracts as well as lower, assumed volume for series productions. We don't think that that is going to happen this year.
+
+We expect to generate a negative non-GAAP gross margin on a quarterly basis, throughout this year, driven by the lower sensor sales to non-series production customers, as well as resumption of our series production facility in Mexico and some modest tariff headwinds. More specifically, we expect negative quarterly gross loss, to average about $5 million to $10 million per quarter.
+
+While we made progress on improving our sensor economics, and COGS overhead through various cost reduction efforts, the unfortunate reality is that the lower than expected production volume, remains a major hurdle for us, in achieving the necessary economies and scales, to achieve sustainable positive gross margin. We may generate positive gross margin, from time-to-time like we did this most recent quarter, but this will be highly dependent on censorship to non-series production customers, which remain lumpy.
+
+I briefly want to address the current tariff environment. Geopolitical tensions are creating significant uncertainty for companies, with global supply chains like Luminar. At this point in time, we have determined that our LiDAR sensors, we ship from Mexico to the U.S., are likely subject to the most - to the recently implemented tariffs.
+
+That said, even if we take no actions, to mitigate this exposure, we expect the impact on our gross profit, to remain relatively modest. However, it is important to note that we remain one of the only LiDAR suppliers with a global footprint across North America and Asia, and we are actively exploring alternatives, to modify our production footprint accordingly.
+
+For 2025, we expect non-GAAP OpEx, will decline from the mid $50 million range in Q1, to the mid to high $30 million range, by the end of the year. As we continue to make progress on our cost reduction efforts. We expect to end fiscal year '25, with greater than $150 million of cash and liquidity, which includes cash and marketable securities, and our $50 million line of credit.
+
+We expect to issue on average about $30 million per quarter will be a little bit higher, a little bit lower depending upon the quarter under our equity financing program. For fiscal year 25, we expect our free cash flow to improve, driven by our cost reduction efforts.
+
+This brings me to my final topic, of our capital structure and cash runway. I'll start with an update on our debt profile. In August of last year, we executed an exchange transaction, which reduced our convertible debt by nearly $150 million, while also raising $100 million of new debt capital. Since August, our convertible debt declined by $38 million through early conversions of our 2030 convertible bonds, leaving about $237 million outstanding on our convertible debt that matures in 2030.
+
+In total, our debt now stands at approximately $540 million versus $625 million a year ago. We plan to start chipping away in a disciplined manner, at the remaining $203 million of convertible debt maturing in 2026, and doing in a way that we don't think is going to materially impact, our cash or liquidity profile. We believe our current cash and liquidity position and equity financing program provides us with sufficient runway through at least 2026.
+
+I mentioned in the past that we may require, approximately an additional $100 million of additional capital, to reach profitability beyond that. We continue to execute aggressively in our cost reduction plan, to lower that potential funding requirement. While we're in no rush to execute a transaction in the near term, we are also evaluating our options for raising additional capital, and will continue to actively monitor the markets. That concludes our prepared remarks. I'd once again like to thank the entire Luminar team for a great 2024 and execution progress.
+
+With that, I'll hand it back over to Aileen to start our Q&A session.
+
+Question-and-Answer Session
+
+A - Aileen McAdams
+
+Thanks, Tom. We're now going to get into our Q&A with our analyst community. Our first question is going to come from Jash Patwa at JPMorgan.
+
+Jash Patwa
+
+Thank you for taking my questions. Austin, great to see you at the GTC. In that way, I'm wondering if there's any news regarding the reference architecture for NVIDIA's Hyperion platform. And if Luminar is expected to continue, as the reference LiDAR sensor, as it was on earlier NVIDIA platforms? Thanks and I have a follow-up.
+
+Austin Russell
+
+Absolutely. And I think, as we mentioned earlier, is that we're in progress right now of shifting the broader customer base that we've had across the board, which is what, like over a dozen different partners from the Iris family of products over to Luminar Halo. And so, I think we certainly expect to be able to, being the lead to be driving this, when it comes to a Hyperion platform, or other kinds of partners that we've been working with accordingly, for the Halo transition as well.
+
+Ultimately, Halo is going to be driving, significantly better economics and as opportunity for, I would say, more widespread and mainstream adoption, whereas Iris was really sort of proving out what was possible. But the key is that it's not. These aren't some theoretical efforts there too.
+
+We're very excited to be showcasing some of these capabilities already as it stands today. And if any of you guys are at GTC, we encourage you guys to come by and see it live with us at NVIDIA at our booth there.
+
+Jash Patwa
+
+Great, that's very helpful. Just as a follow-up, historically, we've heard from Luminar, and some of your industry peers about a metaphorical barrier preventing Chinese suppliers, from securing global OEM contracts, due to escalating geopolitical tensions. However, a recent success by one of your Chinese counterparts, suggests that the competitive landscape might be more complex than we would have previously anticipated. Curious, if you could just discuss the competitive dynamics, particularly regarding, which competitors you encounter most frequently during the sourcing processes. And it would also be helpful if you could highlight areas where Luminar excels, and where it may face challenges compared to the competition? Thank you.
+
+Austin Russell
+
+Yes, absolutely. And as it relates to the China market in particular. I think that to the credit of China, there has been significant and rapid development, within that market for LiDAR adoption, where what there's now millions of vehicles, being shipped accordingly, even with some of the more lower performance LiDAR technologies that are equipped on those.
+
+And I think that's a little bit of a foreshadow, for what happens in the Western world. But I would say more broadly, I think the Western and Eastern ecosystems around it have different kinds of product requirements, when it comes to an OEM standpoint, different kinds of performance requirements, different kinds of safety requirements, and different kinds of capabilities they ultimately want to be able to deploy.
+
+I also think that, really the Eastern world has been moving more quickly, for the initial adoption than the Western world. Whereas the Western world, is going to be the thing that ultimately delivers most of the volume, being responsible for on the order of 90%, of the global volume. Our goal is to sort of position ourselves as the Western world leader. And we see is, there is sort of a dividing ecosystems there.
+
+I think over the last three years, it's actually become probably significantly more divided and isolated. And I think this is largely what OEMs are preparing for in a divided world. There's a lot of conversation around, hi, we don't want anything with a single line of, Chinese code in it. For example, where they're saying that it could be at risk of, well their entire vehicle platform.
+
+If they start doing other kinds of development engineering work in China. With that said, I think that there's obviously some kind of speculation of, if there really haven't historically been any production wins, for companies within China, outside of that, in a material capacity. There aren't today either as far as we're aware. But that, so I mean I heard a lot of different things, of don't always believe everything - that you read.
+
+But that said, when it comes down to it, I think to the credit of the Chinese ecosystem there, it starts to show what is possible. We're going to continue to position ourselves, as the premium player in the market. And I think that's going to really continue to resonate, for the greatest level of safety application and the biggest level of widespread adoption, for the Western world. And that's what we're doubling down on.
+
+Jash Patwa
+
+Understood. That's great color. Thanks. Thanks Austin and good luck.
+
+Austin Russell
+
+Thank you.
+
+Aileen McAdams
+
+Thanks, Jash. Our next question is going to come from Winnie Dong at Deutsche Bank.
+
+Austin Russell
+
+Hi Winnie.
+
+Winnie Dong
+
+Hi. Thanks for taking that question. Question, the first one is on the Luminar milestones that you're looking for this year. I was wondering if you can elaborate on, maybe some sort of a specific customer development you might be looking for. And is there any specific number of contracts that you might be hoping to get for SOP during this year?
+
+Austin Russell
+
+Yes, and I'd say between all of our key OEM customers, everything from Volvo to Nissan, to Mercedes, to beyond all the other ones that we've talked about, and the technology customers. There's generally more detailed milestones, from a product standpoint that are included in those, in terms of what's needed to ultimately successfully launch with them.
+
+And the key is of what we've been doing, is basically now with a lot of the work being done from the Iris family of products, transitioning that over to Halo and establishing those milestones. So we already have those for, some of those key OEMs and contracts in place today. And that's where we're getting the rest of them over.
+
+That really I would say the focus right now, is around maturing the different component level sub-assemblies for it. Some of, which we already have production intent sub-assemblies, other ones we're still developing to be able to get to that stage. So we also ultimately will want to have, Halo product samples in the hands of our various key customers by year-end.
+
+Winnie Dong
+
+Yes, just maybe a flow to that, as you're looking to streamline the operations, I'm just curious how that is going to, impact your current series production Volvo, or perhaps not. I'm just curious how that changeover will happen, yes?
+
+Austin Russell
+
+So Winnie, we're doing this in a way where it shouldn't have any material impact on this. You rewind to where we were three years ago. We were developing three products at once. Iris, Iris plus, Halo. Most of the work on Iris, is substantially done by the end of the year. I wouldn't say it's going to be 100% done, but I would say, there's going to be, I would say more maintenance level type of work on that.
+
+Iris plus as we talked about, we're no longer working on that. We transition our lead customers there directly to Halo. So as we kind of get towards the end of this year, there's going to be one product that the team's going to be working on, which is Halo. And so that is going to allow us to free up, I would say even more resources, streamline the operations, more really narrow our focus, and it shouldn't really impact any of the execution, or any of the production on Iris.
+
+Winnie Dong
+
+Thank you. And then in terms of the OpEx and the cost reduction. Thanks for providing the color on outlook. Can you give us a bit more detail into terms of, the incremental actions that, will be done this year to drive out that cost?
+
+Austin Russell
+
+I think, yes. Yes, and if you go back to what we announced in April, that is substantially complete, when you look at what we did in September, I would say we're about halfway done there. And I would say the, the remaining half will be, you'll see that kind of ramp up in terms of the savings, and ramp down in the Op box through the rest of the year.
+
+And then, because we're being able to stop the work on IR plus, that's going to kind of be the, the next catalyst to kind of streamline the organization even further for continued, and even more cost savings than what we've talked about historically.
+
+Winnie Dong
+
+Got it. Very helpful. Thank you so much.
+
+Aileen McAdams
+
+Thanks, Winnie. Our next question is going to come from Federico Merendi on for John Babcock from - or from Bank of America.
+
+Federico Merendi
+
+Good afternoon everybody. So from the press release I gathered that your free, I mean your cash burn might be around $200 million in 2025. So that leaves you roughly with $100 million at the end of the year, excluding the credit facility so. And Tom, I think you said that you will need additional $100 million to reach profitability. So does that mean that you will reach profitability sometimes in at the end of 2026?
+
+Tom Fennimore
+
+Yes like, first of all, I think your math is generally accurate, and in line with the guidance that we've given. I think '26 in terms of reaching profitability, maybe a little bit too soon. I think we really need to get Halo to the market, given the better than expected sensor economics. So I think it shouldn't be too long after '26 for us, to get to that level, that $100 million, we're doing what we can to kind of continue to, chip away at our cost structure to reduce that amount.
+
+As we've said historically, I don't think we're going to be able to get it all the way to zero, but we're making good progress there to really minimize our additional capital needs to get the profitability.
+
+Federico Merendi
+
+Understood. And you mentioned that you're commencing operation with TPK, which from understanding is in China and…?
+
+Tom Fennimore
+
+We always said Asia, we haven't necessarily said China.
+
+Federico Merendi
+
+I think the 10-K you mentioned that the operations are in China?
+
+Tom Fennimore
+
+We purposely said in our press release now Asia and we purposely said China.
+
+Federico Merendi
+
+Okay.
+
+Tom Fennimore
+
+We've said that we're constantly evaluating, our manufacturing footprint and supply chain and we'll give updates on what that looks like, some point later this year.
+
+Austin Russell
+
+We declare TPK is Taiwanese yes.
+
+Federico Merendi
+
+No, I know that. But from what I remember your 10-K, you mentioned that previously it was in China. But so my end question was, so how are you going to manage the tariff risk, or potential bans from foreign technology in the United States?
+
+Tom Fennimore
+
+Yes, so the latter in terms of the ban of technology in the United States, that's nothing that were, that is I would say a materially impact or material risk at this time for us. The tariffs and like, look, the tariff landscape seems to be changing on a daily basis. So that's something we're looking at historically not to seek out too much from a tariff side, are the product we made in Mexico.
+
+Has a Mexican country of origin. We're looking at ways to kind of, mitigate that tariff impact in the near term here. If we're unable to mitigate it, it's going to have a modest impact on our gross profit, not an immaterial one. Modest, not based upon where everything today, is today significant. But we're constantly looking at our manufacturing footprint and how we define our product to minimize that tariff impact, both in the near and longer term.
+
+Federico Merendi
+
+Thank you very much, guy.
+
+Austin Russell
+
+We also mentioned, 60% of our product content comes from Thailand, as opposed to Mexico. So that's just one other factor there too that, as we kind of think about the broader landscape, we don't want to make any harsh reaction as things keep changing every, every week. But we'll I think as Tom mentioned earlier, we're really the only company from a LiDAR standpoint that has the truly global footprint. Ultimately stuff in China, we believe will be produced for China.
+
+Stuff outside of that in Asia or Mexico, or as that situation evolves, or wherever will go to different parts in the Western world. So I think that's going to be an important part. We have the flexibility to sort of go with the ebbs and flows, of the global trade ecosystem to be able to shift according to this crazy web of geopolitics and tariffs that we have to deal with and everyone has to deal with.
+
+Federico Merendi
+
+Thank you.
+
+Aileen McAdams
+
+Thanks, Federico. Our next question is going to come from Morgan Long on for Mark Delaney from Goldman Sachs.
+
+Austin Russell
+
+Hi Morgan.
+
+Morgan Long
+
+Hi guys. Thanks so much for taking the questions. So well understood on the comments around order book disclosure. But can you try to help us better understand the implications on the backlog from the change from going, from Iris plus to now doing the Halo platform. And how that changes like the quoting process with customers at all?
+
+Austin Russell
+
+It really doesn't change a lot the quoting process here. What happens here is, because Halo is in an earlier stage of product development and we have, I would say a more, strict than others in the industry definition, of what we include in the order book. We only include something in the order book, if it's an official series production award or equivalent.
+
+Halo has to kind of, meet certain development milestones that are defined in our development contracts with our customers. And when, hopefully and when we meet those, then that's when they kind of, reconvert back into the series production award category. So by our technical definition, because Halo hasn't gone through the development process yet, to get the series production board, it wouldn't be our order book.
+
+But as we continue to do that, it should be replenished. The other thing I would highlight there is Halo is, going to have better unit economics in Iris or Iris plus. So as a, replenish it's hopefully replenish it at better longer term economics, for the home team.
+
+Morgan Long
+
+Okay. Very helpful. And then I just wanted to double check that there's been no change to the timeline for Halo. Is that still expected end of 2026?
+
+Austin Russell
+
+Yes, generally in that time frame. And so I think it's, I would say end of '26 for targeted 2020, targeted vehicle lines that have SOPs in 2027.
+
+Morgan Long
+
+Got it. Thank you very much.
+
+Aileen McAdams
+
+Thanks, Morgan. Our last question is going to come from Tyler Anderson on for Richard Shannon at Craig-Hallum.
+
+Tyler Anderson
+
+Hi, everyone. Thanks for taking my questions.
+
+Austin Russell
+
+Hi, Tyler.
+
+Tyler Anderson
+
+So I just got here a little bit late, but for the rampant development going on for the new Volvo win, how should we think about the like timeline for that?
+
+Austin Russell
+
+Are you referring to the ES90?
+
+Tyler Anderson
+
+Yes.
+
+Austin Russell
+
+Yes, so what I would say is IHS has, in our opinion a pretty aggressive volume ramp for the ES90. In the guidance we've given if you look overall, we've assumed about a 50% haircut to IHS. Don't get me wrong, I hope IHS is right and we're wrong, but we want to be more conservative until we see a more sustainable ramp. And so I would say what's embedded in our 2025 guidance, I would say is, is not a significant ramp in ES90. We are prepared to do it, when we see the customer demand.
+
+We have the capacity in place, but we're not forecasting a significant one like IHS is, in that for the ES90. And I would say the EX90, that's what started production in April of last year. We have seen, a ramp up there doing Q4 and then the early parts of '25. There is the potential for an even more, higher production volume once a new China facility comes in. But we've been more conservative, on what that ramp would look like as well.
+
+Tyler Anderson
+
+Awesome. Thank you. I appreciate it.
+
+Austin Russell
+
+Absolutely. And I think, we're also trying to be super conservative more generally. We've also, we've sort of learned from previous years that we'd rather under promise and over deliver, when it comes down to it. So that's why the haircut to volumes, I mean obviously it's still pretty significant growth, with over 200%, and more than that that we would expect that, we're kind of guiding to. From a series production center delivery standpoint that, would be driving the revenue.
+
+Obviously the overall corporate revenue was - growth was more moderated, because of that other kind of one-time renegotiation of a non-series contract that he talked about from - but that's not, that's news from six months ago or whatever. When it comes to either the growth there, IHS would be what, the equivalent of like 500% growth, compared to the 200% growth that we're guiding to.
+
+So I think, it's all upside from here as we, launch with the ES90, and we're counting down the handful of months here. And then Polestar 3 as well, among other vehicles. So this is kind of the EX90 was the vision and the start of the wave, and now it's coming in and scaling up. So excited to make it happen.
+
+Tyler Anderson
+
+Awesome. Great to hear it. Thank you guys.
+
+Aileen McAdams
+
+Thanks, Tyler. That marks the end of our Q&A session. I'd like everyone, or I'd like to thank everyone for sticking around, and participating in the call. And for the analysts that ask the questions, and investors and other folks who've joined us. We look forward, to talking to you guys next quarter.
+
+Austin Russell
+
+Thank you.
+
+Tom Fennimore
+
+Thanks.

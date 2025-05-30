@@ -1,0 +1,321 @@
+Pony AI Inc. (NASDAQ:PONY) Q4 2024 Results Conference Call March 25, 2025 8:00 AM ET
+
+Company Participants
+
+George Shao - Head of Capital Markets & Investor Relations
+James Peng - Chairman of the Board, Co-founder & Chief Executive Officer
+Tiancheng Lou - Director, Co-founder & Chief Technology Officer
+Leo Wang - Founding Member & Chief Financial Officer
+
+Conference Call Participants
+
+Verena Jeng - Goldman Sachs
+Ming-Hsun Lee - Bank of America
+Bin Wang - Deutsche Bank
+Purdy Ho - Huatai Securities
+
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to Pony AI Inc's Fourth Quarter and Full Year 2024 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the management prepared remarks, there will be a question-and-answer session. As a reminder, today's conference call is being recorded and a webcast replay will be available on the company's Investor Relations website at ir.pony.ai.
+
+I will now turn the call over to your host, George Shao, Head of Capital Markets and Investor Relations at Pony AI. Please go ahead, George.
+
+George Shao
+
+Thank you. This is George speaking. Hello everyone, we appreciate you joining us today for Pony AI's fourth quarter and full year 2024 earnings call. Earlier today, we issued a press release with our financial and operating results, which is available on our IR website.
+
+Joining with me today on the call are Dr. James Peng, Chairman of the Board, Co-founder and Chief Executive Officer; Dr. Tiancheng Lou, Director, Co-founder and Chief Technology Officer; and Dr. Leo Wang, Founding Member and Chief Financial Officer. They will provide prepared remarks followed by the Q&A session.
+
+Please note that today's discussion will contain forward-looking statements made under the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to defer material from our current expectations. Further information regarding these and other risks and uncertainties is included in the relevant public filings of the company, as filed with the U.S. Securities and Exchange Commission.
+
+The company does not undertake any obligation to update any forward-looking statements except as required under applicable law. Please also note that, Pony AI’s earnings press release and this conference call include discussions of both an audit GAAP information and an audit non-GAAP financial results. For reconciliation of these non-GAAP measures to the most directly comparable GAAP measures, please refer to Pony AI’s disclosure document available on our IR website.
+
+I will now turn the call over to our Chairman, Co-founder & CEO Dr. James Peng. Please go ahead.
+
+James Peng
+
+Thanks, George.
+
+This is James Peng, Founder and CEO. We consider this is exciting time for Pony AI as we report our first earnings results as a public company. Our NASDAQ listing marks our significant milestone and is timed perfectly with the imminent mass commercialization of our Robotaxi services. With ample financial resources now available, we are well-positioned to lead and capitalize on the upcoming large scale rollout of robotaxis, making this year our inflection point for the widespread adoption of autonomous transportation solutions.
+
+We are taking robotaxis first, China first as a tier-1 cities first approach. This is our current focus is on scaling robotaxi operations in China, which not only generates sizable recurring revenue, but also offers a solid foundation for further expansion into various global markets.
+
+China's online ride-hailing market is exceptional. The country's tier-1 cities [indiscernible] Beijing, Guangzhou, Shanghai and Shenzhen offer a unique combination of demand, consumer readiness and regulatory clarity, making them ideal for large scale robotaxi deployment. We estimate each city can easily support a fleet of over tens of thousands of robotaxis.
+
+With technology that meets regulatory standards and backed by the fully driverless fair charging licenses we have already secured. We are all ready for quick scale up. Launching large fleet in tier-1 cities will enable us to validate our business model, optimize our operations and establish these markets as a benchmark and a scalable framework for future growth, either into other Chinese cities or extends to international markets.
+
+Next, I will explain why we anticipate our robotaxi service will soon achieve mass commercialization. First and foremost, we have achieved technological readiness for mass commercialization. Our operational records proved that our robotaxi has achieved level four driverless operation 24/7 in all weather conditions, making it commercial ready.
+
+Our technology is empowered by virtual driver and the world model. The virtual driver is a comprehensive full stack system with proprietary software and hardware. This enables us to collaborate effectively with automakers and transportation network companies, we call them TNCs, to create a scalable robotaxi business model.
+
+Additionally, our generated Pony word model treats our virtual driver to be much safer and better than expert human driver through advanced reinforcement learning. Our Pony world simulates a wide range of scenarios, including extreme cases and the long tail events by employing a training method called them by practicing. Our virtual driver does not just know what to do, it actually understands the reasons behind its actions.
+
+This is quite different from imitation learning that is widely used for the typical L2 systems. Because the L2 systems imitate the driving patterns of human drivers, they can only reach human level safety. In contrast, Pony world has improved our virtual drivers 60 by 16x, while at the same time significantly improving its comfort and the driving efficiency. Our 60 record enabled our commercial insurance costs per robotaxi to be reduced to almost half that of the traditional taxis.
+
+Second, we have established strong relationship with local governments and the secured the required policy approvals for large scale commercialization. We have obtained all the most advanced licenses in China's Tier 1 cities. For instance, in recent weeks, Pony AI launched paid robotaxi service that connects key transportation hubs such as Beijing South Railway Station, Beijing Daxing Airport, and Yizhuang District, with plans to gradually expand to Beijing City Center.
+
+Moreover, in February this year, we launched paid robotaxi services in Guangzhou City Center, Guangzhou Baiyun International Airport, and Guangzhou South Railway Station. We are the first and owning company approved to provide robotaxi services on these high demand routes. Moving forward, we'll gradually expand our operations in this cities paving the way for future growth.
+
+Third, we have built extensive mass production partnerships to support large-scale commercialization. For example, in the first half of 2024, we established a joint venture with Toyota. As part of the deal, we will roll out mass production of the robotaxis based on bZ4X, as well as build the value chain of autonomous driving operations, including maintenance, charging and other aspects.
+
+In addition, in the second half of 2024, we respectively reached mass production partnerships with BAIC New Energy, that is Beijing Auto and the GAC Group that is Guangzhou order. Based on the GAC, ARCFOX αT5 models and the GAC Aion’s models. We carried out cooperation in the mass production of auto grade, autonomous driving kit, vehicle model production, redundant safety design of the chassis and some other areas.
+
+These partnerships have been reinforced through strategic equity investments from all these three OEMs. All three upcoming robotaxi vehicles are based on our 7-generation autonomous driving systems. This latest generation has achieved a major breakthrough in cost efficiency, reducing unit farm cost by over 70% compared to the previous generation, with further cost reduction anticipated as we scale up.
+
+Fourth, we have fortified our operational capabilities to support the ramp-up of fleet size and accommodate fast growing user demands. We have developed our own ride-hailing platform, which is called Pony Pilot and forged strategic partnership with leading TNCs, such as OnTime Mobility and Alipay to offer driverless robotaxi services.
+
+In the fourth quarter of last year, we also established a partnership with Alibaba's online mapping and ride-hailing platform, Amap, and integrated our robotaxing service into its mobile app and the media programs, making our services more accessible to the public.
+
+In 2024, the average daily orders per vehicle reached 15 and in Q1 2025, we continue to see the growth of daily orders per vehicle. With significant progress have been made in all the four pillars of autonomous driving that is technology, regulations, mass production and large scale operation. We do see that a critical inflection point for mass commercialization is right in front of us.
+
+Now, let's look at our Robotruck business, which we have also seen significant growth in 2024. We deconned our joint venture with Sinotrans transforming it into a comprehensive autonomous driving transportation as a service platform. Together, we will continue building a smart, efficient, safe and environmental friendly logistics road transport network, while further expanding our Robotruck fleet.
+
+A major milestone that highlights our leadership in Robotruck business is our approval as the first company in China to conduct Robotruck driver out platooning across provincial highways, linking Beijing, Tianjin and Hebei province.
+
+With only the leading truck requiring a safety operator and the following trucks to be fully driverless. Testing has already begun on the Beijing-Tianjin-Tanggu Expressway, making a significant step towards full autonomy for all trucks in the platform, which will further reduce logistics costs and accelerate commercialization.
+
+In summary, our transition to a public company marks the beginning of exciting new chapter. We stand at a defining moment as we move towards the large scale commercialization of autonomous mobility and continue to gain momentum building on a solid foundation of technological advancements, regulatory support, and industry partnerships.
+
+Looking ahead, our priority for this year is clear, accelerating the mass production and the deployment of our service generation robotaxi fleet, further reducing the unit bomb cost and expanding operation areas and density in China's Tier 1 cities.
+
+With that, I'll now pass it over to our CTO, Dr. Tiancheng Lou to review our technological progress. Tiancheng, please go ahead.
+
+Tiancheng Lou
+
+Thanks James. Hello everyone. This is Tiancheng.
+
+I'm delighted to have this opportunity to share with you the latest progress of our technologies. Pony’s technological development centered-around enabling the mass commercialization of robotaxi. To achieve successful robotaxi commercialization, autonomous driving technology must meet three key criteria.
+
+First, it must attend a high sufficiently high standard of safety. Overall experience, show that a magnitude safer than a typical human driver is attainable and should be needed. Secondly, cost control is essential, cost should be managed across various aspects, including sensors, company hardware, daily operation, and insurance. Low cost ensure that robotaxi service remains economically sustainable. Finally, robotaxi service should cover large enough geographical area to enable large scale operations.
+
+According to our operational and safety records, Pony’s technology have matured to a level that can support mass commercialization, focusing on safety, cost effective and intensive service coverage. Through years of average, we have been commercially operating fully driverless robotaxi for over two years.
+
+During this time, safety has already surpassed typical human driver by an order of magnitude. As we progress cost are expected to decrease by 70% in next generation, which will be mass produced in the second half of this year. Moreover, over 70 coverage have received regulatory approval, a licenses in all Tier 1 cities in China, which are capable of operating tens of thousands of robotaxis.
+
+Moving forward, our technical goal will remain focused on casting cost efficiency and the operational capability result compromise and safety. In the competitive landscape of the robotaxi services. Only companies that can run drive commercial operation with a significant fleet called position at the forefront. Years of Novation, the diligence has given us a strong competitive edge.
+
+It took us four years to progress from initial garbage deposition to fully launching commercial robotaxi service in China Tier 1 cities, only wonder why it took companies like Waymo and Pony almost five years to get there from demo to commercial operation. The reason that we had to move from simply matching human driving capability to significantly exigent. This means, we had to rebuild over core algorithm as older ones were designed away subject to human limitations.
+
+Now, let me further explain why technology evolution that allows us to bridge the gap and launch over fully driverless services. The key is moving from imitation learning to reinforcement learning. A trend that is the key driver brought us a seat at the forefront.
+
+With imitation learning, which is still widely used by most of the L2 systems. The AI drivers learn by copying human behavior using data from the real-world driving. By mimicking human driving patterns, imitation learning cannot understand the reasoning behind the driving behavior. As a result, this solution is not general enough to handle ever changing traffic scenarios.
+
+Reinforcement learning, on the other hand, uses a generative virtual environment called a world model or PonyWorld at our device point. Where our virtual driver teaches itself through billing of even trillions of generative access trials. This allows our virtual driver to understand why by analyzing the outcome of every action, equipping them to make smarter decisions in complicated scenarios.
+
+Through repeated reinforcement learning, our virtual driver gradually learned to adapt to new situations, unexpected challenges and the corner cases, preparing them to operate safely in the real-world.
+
+Over time, virtual driver trained on the PonyWorld developed the advanced skills needed for complex tasks, such as multi navigating busy streets, handling unpredictable traffic scenarios, are safely operating for tens of thousands hours without any incident. There are three key components making our PonyWorld approach possible. The ability to generate realistic scenarios and sensor data a high fidelity simulation system and a comprehensive set of evaluation metrics.
+
+Together, these elements allow our PonyWorld to effectively coach our virtual driver to handle real-world challenges. I would like to highlight our high fidelity simulation engine here, which leverages the laser technology to create an environment that precisely replicate real-world conditions in both subtle details and the dynamic responses. Unlike traditional systems that rely on human driving data, our simulation engine generates strong driving scenarios and challenging situations for autonomous vehicles to understand, adapt to and make decisions.
+
+The traffic participants in our simulation engine are designed to behave like real humans, interacting with [indiscernible] vehicles in a natural and human like way. This makes our PonyWorld a powerful tool for coaching our virtual drivers. Finally, let me share the latest progress we will make in advancing our technology for mass production and the commercialization.
+
+Large scale commercialization requires handling lower probability in extreme cases with hardware that has lower performance. To address this challenge, we continue to innovate our PonyWorld. Here's how it works. We have trained an Oracle AI driver in our PonyWorld, a virtual environment that time can be re-wamped. This Oracle learns to predict future outcome and then acts as a coach to train other AI drivers, helping them anticipate and respond to future events.
+
+Using similar methods, we will be able to maintain safety standards for mass produced and auto grid lidar domain controllers and the larger robotic fleet. PonyWorld has improved our virtual driver's safety record by 16x. While significantly improving its comfort and driving efficiency. This advancement has reduced the commercial insurance cost for Robotaxi to almost half of that for of traditional taxi, and this is a clear objective measure by the insurers of safety of our technology.
+
+Before I conclude, I'd like to highlight the creation of PonyWorld took years to dedicate research and development, driven by a team of exceptional talented engineers who evolved and thrived together with us over time.
+
+This journey was field by the belief of that our PonyWorld over a greater potential and is critical for achieving driverless robotaxi commercialization. Those years we spent were the toughest for our company and for me personally. I deeply grateful for the trust and the support of our investors and colleagues along the way.
+
+This concludes my prepared remarks. I will now pass the call over to our CFO, Dr. Leo Wang for a closer look at our financial results. Leo, please go ahead.
+
+Leo Wang
+
+Thank you, Tiancheng. And hello everyone. I'm pleased to present Pony AI's financial results on our inaugural earnings call.
+
+Looking back on 2024, we've cut kicked off our seventh generation autonomous driving system development with three OEM partners, which is critical to execute our robotaxi first, China first and Tier 1 city first strategy. We also deepened the partnership with industry leaders creating a robust ecosystem that accelerates the adoption of these technologies.
+
+During our IPO late last year, we raised over US$400 million, which provided us with ample five power to drive our strategy. Looking forward, we'll concentrate and accelerate our seventh generation autonomous driving system development and deployment in China's Tier 1 cities. Hence to solidify Pony AI's position for sustainable growth.
+
+Moving to our financial performance, please note, as we navigate the early stages of commercialization, we are experiencing volatility in our quarterly revenue and margins, which is expected to continue in the near-term. But we are focused on executing our go-to market strategy and achieving key milestones laid-out by James and his remarks, which we expect to reduce variability in our financial performance in the future.
+
+Now, let's take a closer look at our financial results for 2024. For additional quarterly results, please refer to our earning release, which is posted online. Our full year revenue total US$75 million and increase of 4.3% year-over-year. Robotaxi services revenue was US$7.3 million down 5.3% year-over-year.
+
+The decrease was primarily driven by reduced service fee from providing autonomous vehicle engineering solutions based on our project progression schedule. Our robotaxi services revenue also include the passenger fares, which saw a significant year-over-year increase driven by the expansion of our public facing fair charging robotaxi operations in Tier 1 cities. We expect this part of growth will continue and even accelerate as we deploy the 7-generation of top driving vehicles.
+
+Robotruck services grew strongly, delivering US$40.4 million in revenue, up 61.3% year-over-year. This robust growth was driven by the expansion of our fleet into new regions, where new demand can be fulfilled by our Robotruck fleet. Licensing and application revenue was US$27.4 million down 30.1% year-over-year. Influenced by recognition schedule of project based revenue.
+
+Total cost of revenue was US$63.6 million up 15.6% year-over-year, in line with revenue trend and revenue mix. We achieved gross profit of US$11.4 million resulting a gross margin of 15.2%, a decrease from 23% in 2023. The year-over-year decrease was mainly due to services with relatively low gross margin contributed increasingly to our revenues. Moving forward, we expect gross margins to improve as we further scale and optimize operation over time.
+
+Total operating expenses were US$296.9 million, an increase of 85.4% year-over-year. Excluding share based compensation, non-GAAP operating expenses were US$169.9 million up 8.7% year-over-year. The increase was mostly driven by accelerated R&D investment to support the launch of our seventh generation robotaxi vehicles in collaboration with our OEM partners.
+
+Loss from operations was US$285.5 million compared to US$143.2 million in 2023. Non-GAAP loss from operations was US$158.5 million compared to US$139.5 million in 2023. Net loss was US$275 million compared to US$125.3 million in 2023. Non GAAP net loss was US$153.6 million compared to US$118.5 million in 2023.
+
+Turning to our balance sheet, our combined cash and cash equivalents, restricted cash, short-term investments and long-term debt instruments for wealth management was US$825.1 million at the end of 2024.
+
+And lastly, for our business outlook, as mentioned earlier, we expect continued fluctuation in our quarterly revenue, as well as margin since we are at the nascent stage of commercialization. While we are not given formal guidance at this time, we are confident in our ability to scale-up commercialization, drive sustainable growth and deliver value to our shareholders.
+
+I will now turn the call over to the operator to begin our Q&A session, thank you.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question today comes from Verena Jeng with Goldman Sachs.
+
+Verena Jeng
+
+I have two questions. My first question is about the business strategy. So what's the strategic rationale behind your robotaxi first, China first, and also the Tier 1 cities first approach. If you could share more color behind this will be appreciated.
+
+James Peng
+
+I'm James Peng, I'll take the first question regarding our three one strategy. Actually from day one that Pony was founded, autonomous mobility everywhere has always been our company model. This model actually reflects our vision to bring autonomous transportation to all global markets and across all types of vehicles.
+
+We certainly have the ambition for other markets down the road. The fundamental reason behind our China first robot, taxi first and Tier 1 cities first strategy, likely our confidence in an imminent opportunity for mass commercialization.
+
+China has the largest ride-hailing market with around 40% of the global market measured by the number of orders. This is roughly twice the size of the U.S. market within China itself, Tier 1 cities represents the largest share backed by supportive regulatory environment and growing users demand. In 2024 and 2025, we expanded our operations of paid robotaxis to more railway stations, international airports, and the city centers in Beijing, Guangzhou, and Yizhuang.
+
+We also observe that China has established the regulatory framework for robotaxis in a swifter and more transparent manner compared to many other regions. As a result, we believe the Tier 1 cities in China are right and idea for mass deployment of robotaxi. Not only is robotaxi representing the largest market, it is also representing the most difficult technical and the deployment challenges, the safety requirements in handling the bad weather conditions such as rain and snow and other unpredictable corner cases are very challenging.
+
+We have proven our capability to handle such challenges by successfully operating fully driverless robotaxis in the last two years. It is from a commercialization perspective that we are currently more focused on robotaxi in China’s Tier 1 cities, but certainly our know-how can enable us to transfer to other transportation modes and also the global markets in the future. So, thank you. Now back to the second question.
+
+Verena Jeng
+
+Thank you, James. My second question is about the business model. Could you differentiate your business model against the OEM ride sharing company and also the taxi company and any collaboration with these companies?
+
+James Peng
+
+For this question, I think our CFO, Leo is the right one to answer.
+
+Leo Wang
+
+Thank you, James. I'll take this question. So for our Robotaxi air-charging service, actually it's focusing on providing a virtual driver, who takes charge of the driving in the transportation service. And if you look at the traditional transportation service, that's actually provided by a human driver to take charge of the driving. And we charge our passenger based on the distance driven by our virtual driver.
+
+During the ride, actually we provide a more private and safer experience to the passengers. So, if you look at this business model, you can regard them as like upgrade to the current ride-hailing business model not a disruption. From a ride-hailing platform company perspective, its business still will be matching passenger demand with driver resources, in which you can consider our virtual driver to be part of the driver pool.
+
+Automakers are OEMs on the other hand. They get revenues from selling purposely built vehicles that are co-developed with Pony. And these vehicles will be sold to robotaxi operators for example, Pony itself. In a nutshell, actually each party in the value chain in ride hailing business will still play its role in the transportation mobility service sector. We consider this will be a win-win concept.
+
+And because this concept not only supported by us, but also supported by our partner. You can see that we have secured mass production plans with OEM partners such as Toyota, Beijing Auto and Guangzhou Auto. We have also integrated into different traffic net companies such as Amap, Alipay, OnTime and et cetera. So this is my answer to your question, now I will turn back to the operator.
+
+Operator
+
+The next question comes from Ming-Hsun Lee with Bank of America.
+
+Ming-Hsun Lee
+
+So, my first question, do you foresee any challenges before mass commercialization? Maybe we can elaborate more in terms of the user acceptance, technology maturity and the regulation.
+
+James Peng
+
+I'm James Peng, I'll take this one first thanks Ming-Hsun. As I described in my opening remarks, I'm very confident that the four key pillars for the mass production of robotaxi, namely the technology, regulation, mass production and the large scale deployment are actually all in place for Pony. I particularly want to emphasize that our technology has advanced the safety of our robotaxis to a level that actually allow us for the large scale commercialization of robotaxis.
+
+We do not foresee any insurmountable challenges that prevent us from achieving mass commercial. Thirdly, we work hand-in-hand with OEMs and the supply chains to launch a new generation of cost effective robotaxis, successfully reducing our unit cost by 70%. Along with continued improvements in operational efficiency, we're now on the right check to achieve breakeven at the individual vehicle level. In other words, we will have a positive contribution margin from the seventh-generation robotaxis.
+
+In general, we have seen supportive regulatory environment from both the central and the local governments. We take pride in being among the first companies in China to secure licenses for operating fully driverless robotaxi across all 4 Tier 1 cities. Furthermore, we are the owning autonomous driving technology company that has obtained all the necessary regulatory permits required to offer commercial public facing robotaxi services in Tier 1 cities.
+
+Moving forward, our main priority will be expanding our three sites, operational areas and the vehicle density to scale up revenue and enhance our profitability. So that's the answer to your first question.
+
+Ming-Hsun Lee
+
+Thank you, James. So my second question, what are the key technological milestones that need to be achieved to enable your mass production of robotaxi service in 2025?
+
+James Peng
+
+Thank you, Ming-Hsun. I think this one is related to technology. So I'll hand over to Tiancheng.
+
+Tiancheng Lou
+
+Yes, sure. This is Tiancheng. So as I described in my remarks, so Pony technological development is centered-around enabling match composition of robotaxi. To achieve successful robotaxi commercialization, autonomous driving technology must need the three key criteria. They are safety, cost effectiveness, and intensive service coverage. So through years of effort, we have been commercially operating fully driverless robotaxi for over two years.
+
+During this time, safety has already surpassed typical human driver by an order of magnitude, and the cost wise as will progress costs are expected to decrease by 70% in the next generation, which will be mass produced in the second half of this year. Moreover over 70 coverage have received regulatory approval licenses in all Tier 1 cities in China, which are capable of operating tens of thousands of robotaxis.
+
+So according to our operational and safety red card, we believe Pony’s technology hasn't matured to a level that can support match commercialization. And moving forward, our technical goal will remain focused on enhancing cost efficiency and operational capability without the compromise safety. Yeah. Thank you. And back to the operator.
+
+Operator
+
+The next question comes from Bin Wang with Deutsche Bank.
+
+Bin Wang
+
+I actually have one question about the technology. How do you achieve the very high safety level compared to human driver and why you believe the level four autonomous driving technology depends on more? You generate high quality data lot and the massive data you gather from the street.
+
+James Peng
+
+Tiancheng, this one still yours.
+
+Tiancheng Lou
+
+So, this is Tiancheng. So, yes good point. Let me reemphasize that the L4 AI driver is trained using reinforcement learning in a virtual world where data is generated. So as a result, reinforcement learning does not require huge amount of real-world data.
+
+Let me further elaborate on why using real-world driving data to mimic human driving behavior cannot meet our four safety requirements. The fundamental reason lies in the double standard applied to human drivers versus AI drivers. Sociality holds AI to a much higher standard than human drivers. People are far less tolerant to AI mistakes, where AI is perceived as a machine, except to -- expect it to eliminate human shortcomings. This creates a paradox.
+
+Air Force systems not meet safety expectations far beyond that human driver can achieve. Imitation learning by its nature is limited by the ceiling of human performance and the cells cannot satisfy these safety requirements. So, although the amount of data used for imitation learning driving is extremely large, it still cannot ensure that the driving capability can surpass data procurement.
+
+Another important factor is that leveraging real-world data cannot understand the reasoning behind driving behavior, because it only mimics the driving path of human drivers. There is a common theme that describes this phenomena. One knows what's stated, but doesn't know why it is stopped. Merely mimicking the action of human drivers does not guarantee our understanding of the reasoning behind this action. So, in summary, compared to most L2 systems, L4 systems use a different data solution, where generated data is the key, not the real world data. Thank you back to the operator.
+
+Operator
+
+The next question comes from Purdy Ho from Huatai Securities.
+
+Purdy Ho
+
+My questions are from the real address, because most of them are on cost and revenues. So, would you mind giving some colors on why your 2024 costs and expenses were higher year-over-year and also any guidance on costs going forward that you can provide?
+
+Leo Wang
+
+So, I'll take this question. So, as I mentioned in my earlier remarks, actually excluding share based compensation, our non GAAP R&D expenses were US$137.8 million It represents an increase of 14% compared to US$120.9 million in 2023. That's mostly because since the second half of 2024, we have been working on three vehicle models of our seventh generation autonomous driving system.
+
+This incurred the corresponding R&D expenses growth. We consider this ongoing development is very critical to implement our robotaxi first, China first and Tier one city first strategy. And much of this development work will be accomplished in this year. So, on the other hand, during our IPO late last year, we raised over US$400 million.
+
+So, now we have a strong balance sheet with a total of US$825.1 million combined with cash, cash equivalents, restricted cash, short-term investments and long-term debt instruments for wealth management as of December 31, 2024. This provides amplified power to execute our strategy, but also as a startup, we still need to care for the manager, our resource allocation and the investment to seek for the best efficiency and the returns.
+
+So we will continue and even accelerate our seventh generation system development as our top priority and deploy this vehicle in Tier 1 cities from hundreds to thousands. Therefore, we expect the corresponding expenditure will continue to this year. So get back to you.
+
+Purdy Ho
+
+Yes, I got a follow up. We also noticed that revenues in the entire year, 2024 was up, but for the quarter, the fourth quarter revenue was down. So any comments on that? And any guidance going forward?
+
+Leo Wang
+
+So I'll continue to take this question, so if look at our current revenue, it consists of recurring revenue such as we provide a robotaxi fair charging service to the public. We also provide robotruck logistics service to our business partners. And we also have so called a project based revenue. For example, launching a proof-of-concept of robotaxi fleet with our partner for a certain amount of time in certain markets.
+
+Given we have a portion of revenue that is tied to milestone based projects, so that revenue will be recognized upon delivery of contractual obligations. Revenue recognition naturally would fluctuate across different quarters. This is very common for this type of revenues, but look, we are focusing on our seventh generation autonomous vehicle development and the deployment. And these new and more cost effective vehicle will be put into robotaxi fair charging operations later this year, starting from hundreds to thousands.
+
+So, as such, I think it will increase the recurring revenue portion and gradually to change our revenue mix. Hence, we think that we can mitigate the fluctuation in the revenue stream in the future, and we also expect our overall revenue will gradually to grow in the near-term. Following the revenue trajectory in the recent years. So this is my answer to your question. Get back to the operator.
+
+Operator
+
+The next question comes from [indiscernible] Lee with Jefferies.
+
+Unidentified Analyst
+
+I have two questions. My first question is from the technology perspective, given a recent emergence of disruptive technologies like deep seek, how do you see these play out in the development of L4 autonomy from the industry level, while they have a positive or negative impact on your technology robo map? And also will they impact Pony's timeline for the mass deployment of robotaxi? This is my first question.
+
+James Peng
+
+Tiancheng?
+
+Tiancheng Lou
+
+Yes. Thank you. This is Tiancheng. I can take this one. First, I would say that broaden the topic a little bit. In the past few years, many disruptive technologies have emerge, including end-to-end architecture, transformer, and also other technologies using the [dipsy]. They all are giving companies like Pony a greater but greater advantage.
+
+For example, the integration of the end-to-end technology has significant enhanced Pony service coverage. More importantly, the successful commoditization of robotaxi involves multiple factors. The disruptive technology can only impact the welfare. For instance, the factors include number one, driving capability such as safety, comfort and efficiency. Number two, cost such as sensors, computing, operations and then lastly, partnerships such as OEM suppliers, TNCs.
+
+The key to success through a successful commercialization of robotaxi is ensuring that all these factors meet certain standards. Destructive technology can only affect one aspect and any singular breakthrough only provides marginal help for the entire autonomous driving system. Yes, thank you and back to you.
+
+Unidentified Analyst
+
+And my second question is regarding your cooperation with OEMs. Could you please share more details about the current progress? How does such partnership help you to achieve your mass production goals?
+
+James Peng
+
+This is regarding partnership, so I'll take it. I'm James. So our deep collaboration with OEM is one of the keys to actually ensure ensuring our robotaxi commercialization at scale. We work closely with OEMs to co-develop and produce autonomous vehicles across various vehicle platforms.
+
+Most importantly, as I mentioned earlier, scale will be instrumental to enabling us to achieve positive unit economics at a quicker pace. Our collaboration with OEMs are set to significantly reduce unit costs, slashing the bomb by 70% compared to our sixth-generation robotaxi.
+
+In 2024, we have reached agreements with three OEMs Toyota, Beijing Auto and Guangzhou Auto to produce three new vehicle models. Our collaboration with BAIC and the GAC will also endow us with more robust government support in our key markets.
+
+So, in summary, I think our partnership with OEMs actually also goes beyond manufacturing. For example, the joint venture we established with Toyota last year is actually have a more comprehensive partnership. It will provide capitals for vehicles, operate as a fleet company to burden the CapEx and also utilize the existing Toyota dealer network for the vehicle maintenance. So that's the answer to the question. Now back to the operator.
+
+Operator
+
+There are no further questions. Now I'd like to turn the call back over to management for closing remarks.
+
+George Shao
+
+Hi, this is George Shao again. Thank you everyone, once again for joining us today. If you have any further questions, please feel free to contact our IR team. We look forward to speaking with you in the next quarter.
+
+Operator
+
+This concludes the conference call. You may now disconnect your lines. Thank you and have a great day.

@@ -1,0 +1,315 @@
+Company Participants
+
+Omer Keilaf - Chief Executive Officer
+Eldar Cegla - Chief Financial Officer
+
+Conference Call Participants
+
+Mark Delaney - Goldman Sachs
+Jash Patwa - J.P. Morgan
+Casey Ryan - WestPark Capital
+Kevin Garrigan - Rosenblatt Securities
+
+Operator
+
+Good morning. I would like to welcome you to our Q4 and Full-Year 2024 Earnings Conference Call. Joining us today are Omer Keilaf, Chief Executive Officer, and Eldar Cegla, Chief Financial Officer. I would like to remind everyone that this call is being recorded and will be available on the Investor Relations section of our website at ir.innoviz.tech.
+
+Before we begin, I would like to remind you that our discussion today will include forward-looking statements. They're subject to risks and uncertainties relating to future events and the future financial performance of Innoviz. Actual results could differ materially from those anticipated in the forward-looking statements.
+
+Forward-looking statements made today speak only to our expectations as of today. And we undertake no obligation to publicly update or revise them. For a discussion of some important risk factors that could cause actual results to differ materially from any forward-looking statements, please see the risk factors section of our form 20-F filed with the SEC on March 12, 2024.
+
+Omer, please go ahead.
+
+Omer Keilaf
+
+Thank you, Ada, and good morning everyone. Thank you all for joining us on this call. Today, I would like to tell you about some of our recent financial developments and business accomplishments, and lay out how these leave Innoviz in a transformed financial and operational position for 2025 and beyond.
+
+In 2024, Innoviz recorded another strong year of financial performance. Full-year revenues were $24.3 million versus $20.1 million in 2023, and exceeded the midpoint of our guidance range. During the year, we decreased our cash used in operations and capital expenditures to $81.4 million from $99.6 million in 2023. In the past two months, we've taken significant steps to strengthen our financial position. We entered into approximately $80 million of NRE payments plan with our key customers. We ended 2024 with $68 million in cash and cash equivalent.
+
+Additionally in February of this year, we completed a registered direct offering of our securities that generated gross proceeds of approximately $40 million. We also announced an optimization of our operations that should deliver approximately $12 million in savings on an annualized basis. Altogether, we expect our newly strengthened liquidity position to now be a competitive advantage for Innoviz.
+
+On the customer side, our recently unveiled partnership with Mobileye has resulted in programs with several new OEMs. And, our integration with the NVIDIA Hyperion 8 platform means that we have the potential to serve customers across all three major AV platforms. We continue to work with a number of different programs and are expanding our production capacity by an order of magnitude in 2025 to meet customers' future demands.
+
+Heading into 2025, we believe that Innoviz is in an excellent position to execute on our pipeline with additional programs and accelerate growth with our market-leading LiDAR technology. We also feel that the time is ripe to begin exploring opportunities outside the automotive industry as well. We believe that our financial position. And, our prudent cash management will enable us to cross expected SOPs and expected ramp volumes in '26 and '27.
+
+Let me begin by telling you more about the multi-year $80 million NRE payment plan that we announced in December. Under this plan, we expect to receive payments totaling approximately $80 million between 2025 and 2027 with the bulk in 2025 and 2026 and over $40 million already in 2025. We see the potential for this payment plan to be upsized as we are working to expand our scope of business with these and other new customers.
+
+Going into 2024, we had said that we expected $20 million to $70 million of NRE bookings. During the year, we've also announced several new programs where we started work with commercial discussions pending. These NREs and payment amounts are from customers we've been in discussion for quite some time and where we converted on the programs. We see this as a testament to the confidence our customers have in us and the scale of the programs.
+
+The payments are expected to fund the development work on our LiDAR and come before the production ramp. This does not mean we are increasing our spending on these programs. The NREs are going to cover exponential space on ongoing previously planned efforts, allowing us to further reduce our cash burn. It is important to note that the NRE payments are incremental to the revenues we expect to generate in 2025 from sales of our LiDAR base on existing engagements and orders from potential new projects.
+
+Two weeks ago, we announced a registered direct offering of $40 million gross of our securities. These investments from two significant multi billion dollar institutions enhances our financial position and will support the company's business growth moving forward. We believe it enhances our resilience, provides additional operational runway and will be a competitive advantage to Innoviz. It will help us reach key NRE milestones, close expected SOPs and ramp volumes in '26 and '27.
+
+The investment should also buffer potential lumpiness related to the timing of NRE payments and has the potential to reinforce the markets and our customers' confidence in our market position. In addition to the NRE payment spend and our offering, we recently announced an optimization of our operations that is expected to result in saving of approximately $12 million on an annualized basis.
+
+In all, we believe the NRE's strategic investment and operational optimization will enable Innoviz trajectory to meeting our SOPs and ramp up the InnovizTwo to mass production volume. To that end, we've reached the C-sample phase and froze the design of the LiDAR. We thus remain confident in our ability to achieve our long-term goals, position Innoviz to reach profitability and deliver significant value as we look to the end of the decade and beyond.
+
+Moving on to one of our major achievements, last quarter, we disclosed that we've entered into several new OEM programs following our engagement with a major Level 4 platform partner. In December, we were very happy to announce that that partner is Mobileye and the platform is Mobileye Drive AV Level 4. Earlier last year, Mobileye announced that they discontinued internal work on LiDARs and are pivoting to a third-party time-of-flight LiDAR provider.
+
+We are very pleased that Mobileye chose Innoviz LiDARs as a key feature of the platform. And, we are very excited to be working with an industry leader as the world embraces autonomous driving. InnovizTwo LiDAR, with its unique capabilities, including ambient IR, is a proposition that customers appreciate. And our engagement with Mobileye on this platform is a testament to that.
+
+Mobileye Drive is a comprehensive driverless system that enables fully autonomous robotaxis, ride-pooling vehicles, public transport, and goods delivery. Testing is already underway in Europe and North America. By leveraging Innoviz expertise in LiDAR technology, vehicles built with the Mobileye Drive platform will deliver safe and smooth driving performance in their domains.
+
+Each vehicle is planned to have nine InnovizTwo LiDARs, and we expect the volumes from these programs to be very significant. We believe this will drive substantial revenue growth prospects for the company as road testing is planned to commence in 2025 with SOPs in 2026.
+
+Let me now go into the details of some of these programs. First, the VW ADMT ID Buzz; the technological capabilities that we've demonstrated in this platform were key to the expansion of our relationship with Mobileye. We've been engaged with VW on this program for some time. After initially displacing the original long-range LiDAR, last year we've also displaced the short-range LiDAR provider for the program with the InnovizTwo short-range, which covers the short and medium range, and is based on our existing InnovizTwo architecture.
+
+This vehicle was both in our booth and mobilized booth during CES and drew a lot of attention. It has three roof-mounted InnovizTwo long-range LiDARs in the front of the vehicle and six InnovizTwo short-range LiDARs around the vehicle to provide a full 360 view of what's happening. This is critical because in Level 4 vehicles there's no driver and so the car needs to be able to operate fully independently in all directions and understand its surroundings. The ID Buzz is planned for operation in Europe, North America and the Middle East. Test vehicles are already in operation in Austin, Texas, Hanover and Hamburg in Germany.
+
+SOP is expected in mid-2026. The next engagement I'll tell you about is the Holon "People Mover." It's made by a division of Benteler Corporation of Germany and it's intended for public transportation. The configuration here is very similar to the ID. Buzz with a suite of nine InnovizTwo short and long range gliders in addition to radars and cameras. We expect SOP in 2026. And this vehicle is slated to roll out globally across North America, Europe, the Middle East and Asia.
+
+The next vehicle we will look at is a public transportation shuttle by Schaeffler, which is a traditional German Q1, and the first test vehicles are expected to come out this year. The last example of the L4 drive platform that I'll show you today is this 2-seater luxury Robotaxi from Verne. It's quite different from the vehicles that I just showed you, and it's a testament to the versatility of the L4 Mobileye drive AV platform and the Innoviz offerings. It's a fully autonomous electric vehicle designed for safety and comfort from a new European OEM.
+
+The ADAS System Sensor Suite is quite similar to what's in the ID Buzz and the other vehicles with nine InnovizTwo LiDARs. The validation phase is scheduled for this year with SOP at the end of '26 in Zagreb and then expanding to Germany, the U.K., and Saudi Arabia in '27. We're excited to be involved with Mobileye on the ongoing adoption and proliferation of the drive platform.
+
+At nine LiDARs per vehicle, the drive platform is expected to grow to hundreds of thousands of LiDARs per year, a significant revenue opportunity for Innoviz. In addition to the VW ID. Buzz Level 4 program that we've talked about earlier, we are continuing to work with VW L4 programs on the Schaeffler platform.
+
+I'm happy to share that the development process is moving forward nicely across these programs. We continue to move through various development gates successfully, and are on track to meet the planned LiDAR start of production timelines.
+
+Another recent development that I'd like to bring to your attention is in regards to our relationship with NVIDIA. We are working closely with NVIDIA team and are engaging with OEMs who are exploring NVIDIA Hyperion 8.1 platform, which now incorporates the InnovizTwo.
+
+At CES, we also demonstrated that our Perception software has been optimized to run on the NVIDIA DRIVE AGX OrinPlatform, with Mobileye welcome NVIDIA. Innoviz is fully agnostic to the major AV platform, and we can meet the needs of our OEM customers, regardless of their platform of choice. This is a critical value proposition and something we're very proud of.
+
+Shifting now to our pipeline, we're encouraged by the continued progression of the opportunities ahead of us and are confident in our product positioning. We're in talks with multiple OEMs on RFIs and RFQs across Europe, North America, and Asia on Level 3 and Level 4 platforms. These programs encompasses a variety of vehicles, including passenger cars, trucks, shuttles, and robotaxis. We've been able to display the advantages of our technology, and we've successfully completed a variety of technological -- technical, and commercial assessments, and are now in various stages of sourcing process with a number of major corporations.
+
+We have a lot to look forward to, and the entire team is working hard to convert these opportunities into additional design wins. Having just returned from Europe, in the next few weeks, I'll be traveling to Detroit and the Silicon Valley to meet with many of these potential customers.
+
+In addition to the automotive opportunities that I've outlined earlier, I'd like to touch on some of the smart applications that we envision down the line. More and more, we're seeing our unique technology as being highly transferable to areas outside the automotive domain.
+
+We see a variety of applications in development, such as security, smart infrastructure, airports and ground-roof data collection. We continue to be laser focused on the automotive opportunities directly in front of us and on pursuing our strategy of targeting the market with the largest number of available units.
+
+However, we're also aware of longer term markets that we can create for ourselves with our robust and mature LiDAR products and our position as a geopolitically neutral LiDAR supplier into market where safety and security are critical. As we expand our capacity, we think the time is right for exploring these opportunities. We look forward to sharing more with you about this in the future.
+
+Before I hand over the call to Eldar, I'll provide you with some color on our financial performance in 2024 and our revenue guidance for 2025. In 2024, we exceeded the midpoint of our revenue guide of $23.5 million to $25 million and our NRE bookings were in line with our expectations for the year. In 2024, we also met the operational targets of adding two to three new programs.
+
+We believe that the NRE payments that we expect in 2025 combined with sales of LiDARs will drive a more than twofold increase in our revenues year-over-year for 2025 at $50 million to $60 million with positive gross margin. The expected increase in revenue will further drive down our cash flow.
+
+On the operational front, in 2025, we are targeting one to three new programs and expect $20 million to $50 million in additional NRE bookings incremental to what we've already announced.
+
+And with that, I'll turn the call over to Eldar to review our 2024 financials.
+
+Eldar Cegla
+
+Thank you, Omer, and good morning everyone. Since our last earning call, we have strengthened the financial foundation of the company and have made meaningful strides on our path to break even and profitability.
+
+On October 12th, I'm sorry, on February 12th, we closed we can close a registered direct offering of our securities with gross proceeds of approximately $40 million. This funding enhances our resiliency and extends our operational runway. It will help us reach key NRE milestones and prepare for SOP and volume production in '26 and '27. The NRE payments plan already discussed earlier demonstrates our customers' commitment to Innoviz and trust in our technology. Further, the realignment we announced this February improves our cost structure in support of our ongoing efforts to streamline the company.
+
+We ended 2024 with approximately $68 million in cash and cash equivalents, bank deposit, marketable security, and short-term restricted cash on the balance sheet. Not including the $40 million gross funding I just mentioned. We are continuing to drive sequentially decreased cash burn resulting from our continued prudent management of our company focused on a single InnovizTwo LiDAR platform and our strong revenue performance. We are very proud of our trend of consistent improvement in cash burn that we delivered over the course of the year. While there may be continued lumpiness on a sequential basis.
+
+On Full-Year basis, we expect to see considerably lower year-over-year burn. Looking into 2025 and beyond, we remain confident in our ability to manage our expenses effectively and keep our burn down on an annualized basis. Gross margins continued to improve quarter-over-quarter, and in Q4 we generated gross profit for the first time. Going forward, we expect margins will continue to be somewhat lumpy as we ramp unit to volume production and as NRE revenues continue to fluctuate from quarter-to-quarter based on our customer's milestone.
+
+For the Full-Year, we do expect gross margins to be positive. Now turning to the income statement, our Full-Year 2024 revenues of $24.3 million was above the midpoint of our guidance range of $23.5 million to $25 million versus $20.9 million in 2023.
+
+This represents another year in which we delivered on the top line, extending our record of revenue execution. Our operating expenses for 2024 were approximately $101 million, a decrease of 17% from $121 million in 2023. This year's operating expenses included $17 million of share based compensation compared to $20.7 million in 2023.
+
+Research and development expenses for 2024 were $73.8 million, a decrease from $92.7 million in 2023. The year's R&D expenses included $11.2 million of share based compensation compared to $13.7 million in 2023. 2024 R&D expenses reflected a reallocation of R&D expenses to cost of goods sold as part of the NRE revenue recognition process.
+
+To conclude, 2024 represented a transformative year of robust performance from both revenue and cash perspective. We are encouraged by the ongoing strength of our expense management and the ability to consistently meet or exceed our revenue guidance. Looking into Q1, we expect a strong start for the year as we further ramp the InnovizTwo and work to secure additional design wins.
+
+And with that, I'll turn back the call to Omer for closing remarks.
+
+Omer Keilaf
+
+Thank you, Eldar. Before I wrap up the call and open for Q&A, I wanted to recap some of the amazing achievements in the past year. We added several new Level 4 OEMs through our partnership with Mobileye Drive. We are continuing our work on Level 3 Mobileye fare programs. We are collaborating on bringing solutions to the market with test vehicles in 2025 and launches in 2026. Our list of platform partners now include NVIDIA, and we can serve OEMs across all major platforms.
+
+We have a robust pipeline of RFIs and RFQs with a broad based set of OEMs on Level 3 and Level 4 programs, and we believe that our next few wins are within reach. From a financial standpoint, the $80 million annual repayments plan, the $40 million registered direct offering, and our prudent cash management are expected to enable us to process SOPs and ramp volumes in '26 and '27.
+
+And let me just add, we had a lot of news today that we've covered and we couldn't get to all of our technology updates. Rest assured that we are continuing to make significant breakthroughs and broaden our competitive advantages. Our superior technology and strengthened balance sheet gives us confidence that we can achieve our goals of becoming the leading Tier 1 automotive LiDAR supplier.
+
+And with that, operator, please open up the call for Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] Our first question today comes from the line of Mark Delaney of Goldman Sachs. Please go ahead.
+
+Mark Delaney
+
+Thank you very much for taking my questions, and nice to see all the progress, that the company was able to realize over the last quarter. On the last earnings call, you spoke about one potential nomination with the top auto OEM, and you said that Innoviz had passed all the audits and was in final legal negotiations. Can you give us an update on where that potential nomination stands?
+
+Omer Keilaf
+
+Yes. So, actually, I think we've passed the legal discussions, and we are waiting for the customer final alignment. So, we'll make -- once we'll learn about the OEM next steps, we'll update.
+
+Mark Delaney
+
+Very helpful. Thank you for that. And my other question was around cash flow. You said the NRE revenue has positive implications for margins and cash, and you're also taking cost reduction actions. So, given those factors, can you give us more detail on your expectation for free cash flow this year and how much you can reduce the burn in 2025 compared to 2024?
+
+Omer Keilaf
+
+So we said that, this year, we are expecting to continue with the trend, reducing cash burn. The NRE are definitely positive contributors to debt, and we expect this trend to continue this year, next year.
+
+Mark Delaney
+
+Okay. Any quantification of the degree of improvement that you can share, Eldar?
+
+Eldar Cegla
+
+Not at this point of time, but definitely an improvement quarter-over-quarter and year-over-year. We extended about the realignment that is going to help us save $12 million on an annual basis. And of course, the NREs is another contribution for our cash saving.
+
+Mark Delaney
+
+Well-noted. I'll pass it on. Thank you.
+
+Eldar Cegla
+
+Thank you.
+
+Operator
+
+Thank you. Our next question today comes from the line of Jash Patwa of J.P. Morgan. Please go ahead.
+
+Jash Patwa
+
+Hi, good morning. Thanks for taking my questions. I was wondering if you could share some insights around potential tariff implications from a direct and indirect impact standpoint. From a direct impact perspective, I believe you are engaging with domestic Israeli and non-Chinese, Asian manufacturing partners. So, maybe any incremental color on production exposure and flexibility would be helpful.
+
+And then from an indirect standpoint, which I believe could be more meaningful for the business, could you talk about how some of the RFI, RFQ procedures have been impacted as a result of potential tariff disruptions and uncertainty, especially for the North American manufacturers? Thanks, and I have a follow-up.
+
+Omer Keilaf
+
+Sure. So, we are still waiting for the dust to settle to see where things land, and checking the news on a daily basis. As of now, we don't see an impact on us. As you stated, our partner or our plant production partner is in Asia, not in China. And so far, we were not seeing any impact. In terms of RFIs and RFQs, we see an uptick of interest in the U.S., having that the variety of LiDARs that can actually serve, that market is now obviously more limited with Innoviz, being geopolitically neutral. So, it's actually -- I believe it's actually serves us in favor at this point.
+
+Jash Patwa
+
+Understood. That's helpful color. And then, just as a follow-up, you mentioned test vehicles are already on the road for some of the customers involved in the Mobileye Drive platform. Just wondering if you have any data insights on the involvement of LiDARs in driving and perception decisions, not sure how you would like to cut it, but any way to get a sense of the percentage of driving decisions that are primarily controlled by the LiDAR sensor on these vehicles as opposed to alternative sensors like the cameras and radars? Thank you.
+
+Omer Keilaf
+
+Yes, okay. So, actually, I think that's probably a question to Mobileye and their perception software. So, I can't share with you kind of like their analysis of their system. I can only say that, our experience working with different customers, we always hear about the importance of LiDARs in very complex driving scenarios, weather conditions, et cetera. As I said it, I think on last quarter when talking with with Waymo, they talk about the LiDAR taking more than 90% weight of the decision making coming from the LiDAR meaning very LiDAR centric. On Mobileye, I will let them comment.
+
+Jash Patwa
+
+Understood, Omer. Thank you, and good luck.
+
+Omer Keilaf
+
+Thank you.
+
+Operator
+
+Thank you. [Operator Instructions] Our next question today comes from the line of Casey Ryan of WestPark Capital. Please go ahead.
+
+Eldar Cegla
+
+You need to unmute, Casey?
+
+Casey Ryan
+
+Thank you. You guys are too high-tech for me. I'm still back in the phone day. Can you hear me now?
+
+Eldar Cegla
+
+Yes.
+
+Casey Ryan
+
+Okay. Perfect. So, I wanted to touch on one thing. You mentioned briefly NREs of $20 million to $50 million, that could be booked in '25. Can you just tell us what getting an NRE booked means, as far as like, what it looks like? And then what triggers those payments to actually be recognized? It seems like those might be two different things.
+
+Omer Keilaf
+
+Sure. So, whenever we are engaged in a pursuit of a new business with an OEM, whether it's Level 3 or Level 4 and those programs require, I would say support by us, then obviously, this effort that is done before the ramp up of the production, it is paid by the customer and we refer to it as analyst.
+
+The sum could vary between basically the type of the program, the length of the development, and it could be different between different customers. It can be within between $20 million to even $50 million or sometimes even more per customer. So, once we are nominated and we kick off these activities, these NREs are paid to us. It could be paid over milestones. It could be paid over quarters. These are things that are discussed with the customer. In terms of how we recognize or not recognize, I'll hand it over to Eldar to talk about it.
+
+Eldar Cegla
+
+Yes, basically, we are trying to and so far, we succeeded to have all the NREs recognized as revenues, and we do so based on the milestones. Once we meet the milestones, we get the acceptance from the client, and then we can recognize it.
+
+Omer Keilaf
+
+As an example, so this $80 million payment plan of course, we have an alignment with the customer on milestones that we all plan to meet, this year. And those are very tangible and defined deliveries that are used by the customer to basically test our deliveries and of course, pay us accordingly. It's a good alignment between the different teams and helping us to push things forward.
+
+Casey Ryan
+
+Okay. Thank you. Well, that's, helpful. One thing you noted about the $80 million of NREs, I think that was from existing, OEM partners, if I'm remembering the press release correctly. We didn't say that about these new potential NREs. So, can we optimistically infer something about where these additional NREs might come from?
+
+Omer Keilaf
+
+It could come also from the existing, but it also would come from new ones. So, once you're engaged into a program, there are continuous changes and sometimes even new requirements, coming from the customer such as, they want a new LiDAR, the short range, but not just long range. And these activities might require additional effort by us, which means that we'll need to take it more NREs. So, this $20 million to $50 million that we expect or target to book this year, it could be from the existing customers from additional tasks that we're going to have or from new customers that we're going to support.
+
+Casey Ryan
+
+Okay, terrific. That's helpful. And then, just a couple more questions quickly. On the Mobileye Drive platform, can we infer things? If Mobileye talks about wins and customers and opportunities, can we always associate Innoviz with those wins, or are there potentially other LiDAR vendors that are sort of part of that platform?
+
+Omer Keilaf
+
+So, as Mobileye and Innoviz announced when we made the announcement that the Mobileye Drive is using only InnovizTwo sensors. There is a -- and that's a Mobileye plan and plan is record. There is no exclusivity between us and Mobileye on either side. Of course, we are working with others and they are allowed to work with others as well. But the Mobileye plan right now and the fact that's the case where they are using Innoviz, LiDARs, of course, they're different customers. We started our collaboration with Mobileye on the Volkswagen platform, and for Mobileye, it made a lot of sense to develop the same platform for all of their other customers and offload it -- and use it to other customers. That's what led to eventually get to an agreement, and they benefit from it from the, I mean, obviously from the volume that will drive a lower cost for both sides. And as the press release mentioned that future customers of Mobileye would use the same platform, the same generation will use InnovizTwo, and I think that's our expectation.
+
+Casey Ryan
+
+Okay, good. Great. And then, one positive comment you made, Eldar, about gross margins across the year for 2025, you expect them to be positive. Is it fair for us to think that sort of positive for the whole year, not necessarily every quarter? I realize we have sort of fluctuations and production per quarter, but just wanted to make sure that really we're just talking about the year in aggregate.
+
+Eldar Cegla
+
+Yes, it's on an annualized basis again because the fluctuations that we might experience because of meeting these milestones and do they fall in which quarter so it can fluctuate quite a bit, but on an annualized basis we do expect a positive post-match.
+
+Casey Ryan
+
+Yes.
+
+Omer Keilaf
+
+I'll comment also on the guidance for the year. I mean, we were also contemplating again about the guidance between quarter and quarter and year, because it's always very difficult to really foresee all of the opportunities that might come up during the year. There are many things that happened to us during 2024, which allowed us to actually see additional opportunities, secure more wins, and expand our NRE payment plans, et cetera. We've still decided to put out our revenue guidance, which we feel that we can commit to. We do see several opportunities that we'll be able to book additional wins and additional NREs, and we'll update you as we go along.
+
+Casey Ryan
+
+Okay, that's terrific. And that's helpful, but I'm sort of inclined to agree that quarterly targets are sort of less meaningful than the annual target of being positive for gross margin. And I think if we're saying there's a possibility to be maybe your initial guidance is too conservative, I think we'll all be happy with that, too. So, it's a very exciting quarter, and thank you for the update.
+
+Eldar Cegla
+
+Sure. Thank you.
+
+Omer Keilaf
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Kevin Garrigan of Rosenblatt Securities. Please go ahead.
+
+Kevin Garrigan
+
+Yes, hey, Omer. Hey, Eldar. Thanks for taking my questions, and let me echo my congrats on all the progress. For the VW ID Buzz program, what, if any, milestones do you still have to reach in preparation for SOP?
+
+Omer Keilaf
+
+Oh, okay, so we're approaching the C-sample for Innoviz, and we are in a ramp up of our high volume manufacturing site with our manufacturing partner. Basically, just to explain what I just said in terms of C-sample. So, we move from the B to the C-sample. B-sample is where you are completing all of the design validation, you freeze the design. The C-sample means that you are already producing the units in the production that is going to serve the customer, which is meeting all of the automotive requirements. The C-sample stage is where you are testing all of the production validation elements, tolerances related to different batches of components, you're producing in higher volumes to see the LiDAR to LiDAR accuracy and stability of the process.
+
+And once the production validation is completed, then you can actually, you can reach the SOP, which is targeted for us, beginning of next year. And that's basically the last milestone for us before we can serve our customer and launch. We've already met the design freeze, which means that we've also met what is referred to as a point cloud freeze.
+
+It's a very important milestone because it actually allows the customer to ramp up its fleet and start doing data collection. It's maybe one of the most important times in the development stage of a program because equipping a fleet of vehicles and start collecting data, which are going to be the base for the development of the overall software of the car is a very critical point because if at some point you learn that for any reason, something needs to be changed in the LiDAR, in the point cloud, you basically need to scrap a lot of data that was collected.
+
+It's a very expensive, I would say, effort. And therefore, reaching design freeze and point cloud freeze is a very critical point in time, which I would say probably the most influential on the ability of the program to eventually launch on time because there's a very long process of data collection, different environments, and different test conditions, use cases where the customer eventually need to develop its own software, validate it.
+
+So, from our perspective in terms of enabling our customers to meet their SOP on time, using our LiDARs for data collection, we've already crossed that point in a very good way. I'm very happy and very pleased with the quality that our LiDAR is providing to our customer. We've crossed -- we've met all of the KPIs. The LiDAR is very high quality in terms of stability, image quality, meeting all of the range and really different parameters that are very challenging, especially in different weather conditions and in dirty window. And really, I've seen the test reports that were presented just a few days ago is actually to one of our new customers that we would try to show them that we've reached the point cloud freeze. I think the level of professional effort that was done by the team really gives us a huge compliment from different customers. I think it's really due to the fact that this is actually the second time that Innoviz has met that point.
+
+This is not our first time we're going to the market with a LiDAR. We've met the point cloud freeze with InnovizOne. We know the importance of it. We feel that this point of time, InnovizTwo is actually enabling our customers to even cross the -- and surpass the targets in terms of being able to fulfill the KPIs, user experience KPI. I think that InnovizTwo is a great product and we look forward to see the progress of our customers, which by the way, we already, I'm getting from time to time feedbacks from the leaders of these OEMs, telling me how great experience it is when they are using, they are getting demos from either Mobileye or other customers and thanking us for the great work that we do. So, it is exciting. It's great to see our product on the road and that our customers are enjoying it.
+
+Kevin Garrigan
+
+Yes, no, absolutely. That's fantastic. And I appreciate the color on that. And then, just as a follow-up there's been a lot of news surrounding autonomous driving kind of coming out of China and Chinese OEMs making progress with their platforms. Can you just give us an update on BMW China and how you see this platform being competitive versus Chinese OEMs?
+
+Omer Keilaf
+
+Sure. So, first of all, I would say that I think China is always the crystal ball in the rest of the market and the way that they are pushing the envelope in terms of bringing new capabilities and more sensors into the car is something that I think many OEMs around the world are very much aware of, and in a way also helping to push things forward.
+
+BMW Level 3 platform, which was developed also for the Level 3 road, is basically waiting for the approval for Level 3 on the road. I'll let BMW announce I would say, their plans once that happens. I believe that right now there is no Level 3 available on the road with the experience that BMW has using our LiDARs. There is a huge, huge, huge difference between a Level 2 system and a Level 3. I'll go as far as say that if you are using a LiDAR for for Level 2 car, the LiDAR can possibly reset every five minutes, and nobody cares. Eventually the car is still supervised by the driver. In order to allow Level 3, where the driver is not looking on the road, you need an order of magnitude of higher quality. Basically the only time where the driver is as it should be as to re-engage is when the LiDAR might be [there due] (ph) or something, and it has 10 seconds to react.
+
+With our LiDARs, as possibly we've said in previous quarters, even that is not required because of our LiDAR and resilience to the earth. So, we believe that with the sensor that Innoviz is providing, the user experience of Level 3 and Level 4 would be substantially better.
+
+Kevin Garrigan
+
+Okay, perfect. Thank you.
+
+Omer Keilaf
+
+Thank you.
+
+Operator
+
+Thank you. We have no further questions. Please proceed.
+
+Omer Keilaf
+
+Okay. Thanks everyone for joining us today. We look forward to update you on our next quarter, and continue the progress we are making here at Innoviz. Thank you very much.
