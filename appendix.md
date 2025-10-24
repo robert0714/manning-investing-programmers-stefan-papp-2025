@@ -85,7 +85,6 @@ Download and install VS Code for your operating system based on the vendor’s i
 * Google Colab
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch02.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch03.ipynb
-    * Env `datasource.alphavantage.secret` is the [**Alpha Vantage**](https://www.alphavantage.co/support/#)'s api key.Its usage is at https://pypi.org/project/alpha-vantage/ ,`ALPHAVANTAGE_API_KEY` . 
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch04.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch05.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch06.ipynb
@@ -95,7 +94,10 @@ Download and install VS Code for your operating system based on the vendor’s i
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch10.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch11.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch12.ipynb
-  
+* Additional operations
+  * In ch04:
+    * 4.2.1-Picking candidates: Env `datasource.alphavantage.secret` is the [**Alpha Vantage**](https://www.alphavantage.co/support/#)'s api key.Its usage is at https://pypi.org/project/alpha-vantage/ ,`ALPHAVANTAGE_API_KEY` . In Colab , You nedd to add cli `%pip install alpha_vantage` in cell .
+    * 4.4.2-Trend analysis: In Colab , You nedd to add cli `%pip install pytrends` in cell .
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
