@@ -85,6 +85,7 @@ Download and install VS Code for your operating system based on the vendor’s i
 * Google Colab
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch02.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch03.ipynb
+    * Env `datasource.alphavantage.secret` is the [**Alpha Vantage**](https://www.alphavantage.co/support/#)'s api key.Its usage is at https://pypi.org/project/alpha-vantage/ ,`ALPHAVANTAGE_API_KEY` . 
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch04.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch05.ipynb
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch06.ipynb
