@@ -128,7 +128,8 @@ Download and install VS Code for your operating system based on the vendor’s i
           return sp500_table["Symbol"].tolist()            #1
       (omitted..)
       ```
-      #1 Collects all tickers from S&amp;P 500 companies 
+      #1 Collects all tickers from S&amp;P 500 companies
+    * 5.2-Bonds: Env `datasource.eod.key` is the **[EOD Historical Data](https://eodhd.com/)** 's api key.Its usage is at https://eodhd.com/cp/api  .      
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
