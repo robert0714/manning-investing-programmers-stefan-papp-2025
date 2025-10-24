@@ -111,6 +111,24 @@ Download and install VS Code for your operating system based on the vendor’s i
             * Specific dates, 'YYYY-MM-DD YYYY-MM-DD' example `'2016-12-14 2017-01-25'`
             * Specific datetimes, 'YYYY-MM-DDTHH YYYY-MM-DDTHH' example `'2017-02-06T10 2017-02-12T07'`
             * Note Time component is based off UTC
+  * In ch05:
+    * For `https://en.wikipedia.org/wiki/List_of_S%26P_500_companies`'s `S&P 500 component stocks`  was modified .  Previously it was `sp500_table = tables[0]`, now it is `sp500_table = tables[1]`
+      ```python
+      # Listing 5.2 Executing code
+      import requests
+      import pandas as pd
+      import yfinance as yf
+      from io import StringIO
+      def get_sp500_tickers():
+          url = "https://en.wikipedia.org/wiki/"
+              "List_of_S%26P_500_companies"                #1
+          response = requests.get(url)                     #1
+          tables = pd.read_html(StringIO(response.text))   #1
+          sp500_table = tables[1]                          #1
+          return sp500_table["Symbol"].tolist()            #1
+      (omitted..)
+      ```
+      #1 Collects all tickers from S&amp;P 500 companies 
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
