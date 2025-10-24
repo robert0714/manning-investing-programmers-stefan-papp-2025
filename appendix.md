@@ -96,8 +96,21 @@ Download and install VS Code for your operating system based on the vendor’s i
   * https://colab.research.google.com/github/robert0714/manning-investing-programmers-stefan-papp-2025/blob/master/ch12.ipynb
 * Additional operations
   * In ch04:
-    * 4.2.1-Picking candidates: Env `datasource.alphavantage.secret` is the [**Alpha Vantage**](https://www.alphavantage.co/support/#)'s api key.Its usage is at https://pypi.org/project/alpha-vantage/ ,`ALPHAVANTAGE_API_KEY` . In Colab , You nedd to add cli `%pip install alpha_vantage` in cell .
-    * 4.4.2-Trend analysis: In Colab , You nedd to add cli `%pip install pytrends` in cell .
+    * 4.2.1-Picking candidates: Env `datasource.alphavantage.secret` is the [**Alpha Vantage**](https://www.alphavantage.co/support/#)'s api key.Its usage is at https://pypi.org/project/alpha-vantage/ ,`ALPHAVANTAGE_API_KEY` . In Colab , You have to add cli `%pip install alpha_vantage` in cell .
+    * 4.4.2-Trend analysis: In Colab , You have to add cli `%pip install pytrends` in cell .Its usage is at https://pypi.org/project/pytrends/ . `Build Payload` usage:
+      ```bash
+      kw_list = ["Blockchain"]
+      pytrends.build_payload(kw_list, cat=0, timeframe='today 5-y', geo='', gprop='')
+      ```
+      *  Parameters
+         *  `kw_list`
+            *  *Required*
+            *  Keywords to get data for
+         *  `timeframe`
+            * Defaults to last 5yrs, `'today 5-y'`
+            * Specific dates, 'YYYY-MM-DD YYYY-MM-DD' example `'2016-12-14 2017-01-25'`
+            * Specific datetimes, 'YYYY-MM-DDTHH YYYY-MM-DDTHH' example `'2017-02-06T10 2017-02-12T07'`
+            * Note Time component is based off UTC
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
