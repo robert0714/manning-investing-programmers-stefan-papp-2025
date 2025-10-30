@@ -112,7 +112,7 @@ Download and install VS Code for your operating system based on the vendor’s i
             * Specific datetimes, 'YYYY-MM-DDTHH YYYY-MM-DDTHH' example `'2017-02-06T10 2017-02-12T07'`
             * Note Time component is based off UTC
   * In ch05:
-    * For `https://en.wikipedia.org/wiki/List_of_S%26P_500_companies`'s `S&P 500 component stocks`  was modified .  Previously it was `sp500_table = tables[0]`, now it is `sp500_table = tables[1]`
+    * For `https://en.wikipedia.org/wiki/List_of_S%26P_500_companies`'s `S&P 500 component stocks`  was modified .  We add headers `'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0'`.
       ```python
       # Listing 5.2 Executing code
       import requests
@@ -122,9 +122,13 @@ Download and install VS Code for your operating system based on the vendor’s i
       def get_sp500_tickers():
           url = "https://en.wikipedia.org/wiki/"
               "List_of_S%26P_500_companies"                #1
-          response = requests.get(url)                     #1
+
+          # Add headers to mimic a browser request
+          headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0'}
+
+          response = requests.get(url, headers=headers)    #1
           tables = pd.read_html(StringIO(response.text))   #1
-          sp500_table = tables[1]                          #1
+          sp500_table = tables[0]                          #1
           return sp500_table["Symbol"].tolist()            #1
       (omitted..)
       ```
@@ -132,6 +136,34 @@ Download and install VS Code for your operating system based on the vendor’s i
     * 5.2-Bonds:
       * Env `datasource.eod.key` is the **[EOD Historical Data](https://eodhd.com/)** 's api key.Its usage is at https://eodhd.com/cp/api  .
       * Env `datasource.figi.key` is the **[OpenFIGI](https://www.openfigi.com/)** 's api key.Its usage is at https://www.openfigi.com/api/overview . Examples: https://github.com/OpenFIGI/api-examples/blob/main/python/example.py  .
+  * In ch08:
+    * For `https://en.wikipedia.org/wiki/List_of_S%26P_500_companies`'s `S&P 500 component stocks`  was modified .  We add headers `'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0'`. Using `StringIO` function .
+      ```python
+      from scipy.cluster.vq import kmeans,vq
+      from math import sqrt
+      from sklearn.cluster import KMeans
+      import requests           # add imports
+      from io import StringIO   # add imports
+      import yfinance as yf     #A 
+      import numpy as np        #A 
+      import matplotlib.pyplot as plt  #A 
+
+      # 8.1.1 Unsupervised learning example
+      sp500_url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
+
+      # Add headers to mimic a browser request
+      headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0'}
+
+      response = requests.get(sp500_url, headers=headers) #A
+      data_table = pd.read_html(StringIO(response.text)) #A 
+
+
+      tickers = data_table[0]['Symbol'].values.tolist()
+      tickers = [s.replace('\n', '') for s in tickers]
+      tickers = [s.replace('.', '-') for s in tickers]
+      tickers = [s.replace(' ', '') for s in tickers]
+      (omitted..)
+      ```
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
