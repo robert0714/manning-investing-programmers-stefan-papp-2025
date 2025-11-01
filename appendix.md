@@ -203,7 +203,20 @@ Download and install VS Code for your operating system based on the vendor’s i
           * [Create a data source](https://developers.notion.com/reference/create-a-data-source)
           * [Retrieve a data source](https://developers.notion.com/reference/retrieve-a-data-source)
 
-
+  * In ch10:
+    * ModuleNotFoundError:
+      * mplfinance,streamlit
+        ```bash
+        pip install mplfinance streamlit
+        ```
+    * Streamlit01
+      ```bash
+      streamlit run ch10_streamlit.py
+      ```   
+    * Streamlit02
+      ```bash
+      streamlit run ch10_streamlit_ta.py
+      ```     
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
