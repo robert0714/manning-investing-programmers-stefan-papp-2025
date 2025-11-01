@@ -164,6 +164,46 @@ Download and install VS Code for your operating system based on the vendor’s i
       tickers = [s.replace(' ', '') for s in tickers]
       (omitted..)
       ```
+  * In ch09:
+    * ModuleNotFoundError:
+      * sqlalchemy ,dotenv 
+        ```bash
+        pip install sqlalchemy dotenv 
+        ``` 
+    * Colab could not read file named 'question.db':
+      * Downloading file:
+        ```bash
+        # In Colab cell to executing the below command
+        !wget -q -O question.db "https://raw.githubusercontent.com/robert0714/manning-investing-programmers-stefan-papp-2025/main/question.db"
+        !ls -l question.db
+        ```
+        Then use it directly in the same directory (Colab defaults to `/content`):
+        ```python
+        from sqlalchemy import create_engine
+        engine = create_engine('sqlite:///question.db')
+        ```        
+      * Using Python to download
+        ```python
+        import requests
+        url = "https://raw.githubusercontent.com/robert0714/manning-investing-programmers-stefan-papp-2025/main/question.db"
+        open('question.db','wb').write(requests.get(url).content)
+        # Then build engine
+        from sqlalchemy import create_engine
+        engine = create_engine('sqlite:///question.db')
+        ```      
+    * 9.2.2 Export results:
+      * Notion integration: https://developers.notion.com/docs/create-a-notion-integration#requirements
+        * Creating a new integration in Notion’s integrations dashboard: 
+          * `https://www.notion.com/my-integrations`
+          * `https://www.notion.so/profile/integrations`
+        * `doc.notion.api` is the [**Notion integration**](https://www.notion.so/profile/integrations)'s api key.
+        * `doc.notion.db`
+          * [Using Notion's API for Integrations](https://developers.notion.com/docs/getting-started#using-notions-api-for-integrations)
+          * [Notion's database object](https://developers.notion.com/reference/database)
+          * [Create a data source](https://developers.notion.com/reference/create-a-data-source)
+          * [Retrieve a data source](https://developers.notion.com/reference/retrieve-a-data-source)
+
+
 ### A.5.1 **Database**
 * SQLite database
 * SQL Alchemy library
